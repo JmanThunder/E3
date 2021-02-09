@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 10
 	conservative = 75
 	reactionary = 15
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -116,7 +116,7 @@ high_pressure_steam_engine = 1
 mechanical_production = 1
 interchangeable_parts = 1
 #Industry - Metallurgy
-hot_blast = 1
+mechanized_mining = 1
 #Industry - Infrastructure
 experimental_railroad = 1
 #Industry - Chemistry and Electricity

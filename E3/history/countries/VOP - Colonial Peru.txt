@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 29
 	conservative = 57
 	reactionary = 14
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -76,5 +76,5 @@ mechanical_production = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-# oob = "PBC_oob.txt"
+oob = "PBC_oob.txt"
 

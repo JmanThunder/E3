@@ -13,7 +13,7 @@ upper_house = {
 	liberal = 11
 	conservative = 73
 	reactionary = 16
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -22,6 +22,8 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+oob = "AWA_oob.txt"
 
 slavery = yes_slavery
 upper_house_composition = appointed
@@ -51,5 +53,3 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = shiite_country
-
-oob = "AWA_oob.txt"

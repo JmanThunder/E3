@@ -1,71 +1,60 @@
-#Reunion (98000)
-#Ruled by France 1836
-#Reunion (98000/24500 POPS)
+#Reunion (200000)
+#Ruled by France 1861
+#Reunion (200000/50000 POPS)
 2126 = {
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 750
+		size = 1100
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
 		size = 300
 	}
 
-	farmers = {
+	clergymen = {
 		culture = french
 		religion = catholic
-		size = 5825
-	}
-
-	clergymen = {
-		culture = kreol #afro_antillean
-		religion = catholic
-		size = 125
+		size = 250
 	}
 
 	artisans = {
-		culture = kreol #afro_antillean
+		culture = french
 		religion = catholic
-		size = 850
+		size = 1050
 	}
 
 	soldiers = {
-		culture = kreol #afro_antillean
+		culture = french
 		religion = catholic
-		size = 200
+		size= 1250
+
 	}
 
 	farmers = {
-		culture = kreol #afro_antillean
+		culture = french
 		religion = catholic
-		size = 1825
+		size = 11455
 	}
 
-	slaves = {
-		culture = kreol #afro_antillean
+	clergymen = {
+		culture = afro_french
 		religion = catholic
-		size = 14000
+		size = 375
+	}
+
+	artisans = {
+		culture = afro_french
+		religion = catholic
+		size = 1950
+	}
+
+	farmers = {
+		culture = afro_french
+		religion = catholic
+		size = 32370
 	}
 
 }

@@ -17,7 +17,7 @@
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 50 
+		size = 100 
 	}
 
 	artisans = {
@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 50 
+		size = 100 
 	}
 
 	farmers = {
@@ -65,14 +65,28 @@
 	serfs = {
 		culture = gypsy
 		religion = catholic
-		size = 1000
+		size = 500
 	}
 	
 	serfs = {
 		culture = slovene
 		religion = catholic
-		size = 20000
+		size = 1000
 	}
+	
+	######Jews
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+	
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+	########
 	
 }
 #Carniola Region (460000)  
@@ -126,42 +140,6 @@
 		religion = catholic
 		size = 20000
 	}
-
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 6500
-	}
 	
 }
 #Postojna (180000/45000 POPS) 
@@ -205,7 +183,7 @@
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 25
+		size = 100
 	}
 
 	farmers = {
@@ -213,13 +191,12 @@
 		religion = catholic
 		size = 1975
 	}
-
 }
 
 #Murska Sobota
 3282 = {
 	aristocrats = {
-		culture = south_german
+		culture = slovene
 		religion = catholic
 		size = 250
 	}
@@ -227,7 +204,7 @@
 	clergymen = {
 		culture = slovene
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	artisans = {
@@ -239,19 +216,19 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 9000
+		size = 20000
 	}
 	
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
@@ -263,66 +240,8 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 3000
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 1000
+		size = 2000
 	}
 
 }
 
-#Gutenstein/Ravne
-3312 = {
-	aristocrats = {
-		culture = slovene
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 20
-	}
-
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 2500
-	}
-	
-	aristocrats = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 5
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 700
-	}
-
-
-}

@@ -1,6 +1,8 @@
 capital = 1503
 primary_culture = north_german
 culture = south_german
+culture = swiss_german
+culture = volga_german
 religion = protestant
 government = colonial_company
 plurality = 0.0
@@ -26,7 +28,7 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
 
@@ -37,11 +39,10 @@ penal_system = capital_punishment
 child_labor = child_labor_legal
 centralization = regionalism
 colonial_policy = exploitation
-
-citizens_rights = culture_voting_only
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
-foreign_officers = yes_foreign_officers
+foreign_officers = yes_foreign_officers 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools
 land_reform = yes_land_reform
@@ -55,10 +56,10 @@ set_country_flag = mahayana_country
 ruling_party = EIC_reactionary
 upper_house = {
 	fascist = 5
-	liberal = 35
+	liberal = 35	
 	conservative = 30
 	reactionary = 30
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -70,11 +71,11 @@ precision_work = yes
 # Inventions
 
 
-# 1861.1.1 = {
-	# oob = "/1861/HUD_oob.txt"
-# }
-# 1861.1.1 = {
-# # Technologies
+#1861.1.1 = {
+#	oob = "/1861/HUD_oob.txt"
+#}
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 25
 	conservative = 65
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -56,6 +56,11 @@ nonstate_consciousness = 0
 
 
 foreign_weapons = yes_foreign_weapons
+# Technologies
 flintlock_rifles = 1
+
+# Inventions
+small_arms_production = yes
+ammunition_production = yes
 
 oob = "BTL_oob.txt"

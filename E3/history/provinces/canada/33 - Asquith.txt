@@ -1,3 +1,7 @@
-trade_goods = grain
-life_rating = 30
+owner = RPL
+controller = RPL
+add_core = RPL
 colonial = 2
+add_core = MTC
+trade_goods = grain
+life_rating = 31

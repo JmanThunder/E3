@@ -1,6 +1,5 @@
 capital = 2061
 primary_culture = swahili
-culture = yao
 culture = southern_bantu
 religion = sunni
 government = absolute_monarchy
@@ -45,19 +44,20 @@ upper_house = {
 	liberal = 20
 	conservative = 60
 	reactionary = 20
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
 set_country_flag = lacking_writing_system
-
+foreign_weapons = yes_foreign_weapons
+flintlock_rifles = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "AGC_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/AGC_oob.txt"
-# }
+1861.1.1 = {
+	oob = "/1861/AGC_oob.txt"
+}

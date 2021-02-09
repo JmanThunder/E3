@@ -30,7 +30,7 @@ school_reforms = no_schools
 
 # New Reforms
 conscription = no_draft
-debt_law = peonage
+debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
-set_global_flag = polish_renamed_krakow
+decision = polish_renamed_galicia
 
 ruling_party = KRA_conservative
 last_election = 1836.1.1
@@ -48,13 +48,12 @@ upper_house = {
 	liberal = 27
 	conservative = 65
 	reactionary = 8
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 schools = culture_tech_school
-
 
 # Technologies
 post_napoleonic_thought = 1
@@ -77,5 +76,3 @@ mechanical_production = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-
-oob = "KRA_oob.txt"

@@ -1,5 +1,5 @@
-owner = LUA
-controller = LUA
+owner = SIA
+controller = SIA
 add_core = SIA
 add_core = WIA
 add_core = LUA

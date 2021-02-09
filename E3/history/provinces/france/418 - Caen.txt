@@ -3,14 +3,14 @@ controller = FRA
 add_core = FRA
 add_core = NRM
 trade_goods = cattle
-life_rating = 31
-naval_base = 2
+life_rating = 30
 terrain = caen
-#state_building = {
-#	level = 1
-#	building = regular_clothes_factory
-#	upgrade = yes
-#}
+naval_base = 2
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
 1861.1.1 = {
 	state_building = {
 		level = 1

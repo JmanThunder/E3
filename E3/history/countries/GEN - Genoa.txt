@@ -46,14 +46,14 @@ upper_house = {
 	liberal = 29
 	conservative = 60
 	reactionary = 11
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

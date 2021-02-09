@@ -1,413 +1,389 @@
-#Hadramaut Region (120000) #see Oman.txt for balance of region  
-#under the rule of Yemen in 1836  
-#Mukalla (32000/8000 POPS)   
+#Hadramaut Region (120000) #see Oman.txt for balance of region
+#under the rule of Yemen in 1836
+#Mukalla (32000/8000 POPS)
 1173 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 270
+		size = 239.05
 	}
 
 	bureaucrats = {
 		culture = bedouin
 		religion = sunni
-		size = 90
+		size = 30.450000000000001
 	}
 
 	officers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 50.75
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+		size = 150.25
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size = 812.0
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 2000
+		size= 2030
+
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 16700
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 1500
+		size = 12540.5
 	}
 }
-#Ghaydah (20000/5000 POPS)   
+#Ghaydah (20000/5000 POPS)
 1175 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size = 203.0
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 101.5
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 600
+		size = 507.5
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 2000
+		size= 101
+
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 10300
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 3000
+		size = 9289.5
 	}
 }
-#Bayda (68000/17000 POPS)   
+#Bayda (68000/17000 POPS)
 1176 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 550
-	}
-
-	bureaucrats = {
-		culture = bedouin
-		religion = sunni
-		size = 90
+		size = 563.25
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 350
+		size = 360.25
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 1900
+		size = 1675.5
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 3000
-	}
+		size= 360
 
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 1175
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 27050
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 5000
+		size = 30990.75
 	}
 }
-#under the rule of Oman in 1836  
-#Socotra (16000/4000 POPS)   
+#under the rule of Oman in 1836
+#Socotra (16000/4000 POPS)
 1177 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 101.5
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 101.5
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 500
+		size = 304.5
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 50
+
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 4775
+		size = 5658.25
 	}
 
 	slaves = {
-		culture = kefficho
+		culture = african_minor
 		religion = animist
-		size = 2800
+		size = 2030.0
 	}
 }
-#Yemen Region (224000)  
-#under the rule of Yemen in 1836  
-#Sana (124000/31000 POPS)   
+#Yemen Region (224000)
+#under the rule of Yemen in 1836
+#Sana (124000/31000 POPS)
 1178 = {
 	aristocrats = {
 		culture = mashriqi
 		religion = shiite
-		size = 950
+		size = 909.25
 	}
 
 	bureaucrats = {
 		culture = mashriqi
 		religion = shiite
-		size = 100
+		size = 101.5
 	}
 
 	officers = {
 		culture = mashriqi
 		religion = shiite
-		size = 150
+		size = 157.25
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = shiite
-		size = 500
+		size = 507.5
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = shiite
-		size = 2550
+		size = 2613.25
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size = 2000
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size= 2220
+
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 42750
+		size = 40956.25
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+		size = 157.25
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+		size = 157.25
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 300
+		size = 304.5
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size= 101
+
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 6650
+		size = 7459.5
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 50
+		size = 50.75
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 2950
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 3000
+		size = 3019.25
 	}
 }
-#Hodeida (48000/12000 POPS)   
+#Hodeida (48000/12000 POPS)
 1179 = {
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 300
+		size = 304.5
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 200
+		size = 203.0
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 1100
+		size = 1015.0
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 2000
+		size= 2030
+
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 12500
+		size = 16897.5
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 50.75
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 101.5
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size = 203.0
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 50
+
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 7600
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 5000
+		size = 3654.0
 	}
 }
-#Taizz (52000/13000 POPS)   
+#Taizz (52000/13000 POPS)
 1180 = {
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 2000
+		size = 103.0
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 100
+		size = 101.5
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 500
+		size = 507.5
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 2000
+		size= 2030
+
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 7225
+		size = 7433.75
 	}
 
 	aristocrats = {
 		culture = mashriqi
 		religion = shiite
-		size = 250
+		size = 248.75
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = shiite
-		size = 150
+		size = 147.25
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = shiite
-		size = 800
+		size = 812.0
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = shiite
-		size = 150
+		size= 147
+
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 12400
-	}
-
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 3000
+		size = 13092.0
 	}
 }
-#Aden (40000/10000 POPS)   
+#Aden (40000/10000 POPS)
 1412 = {
 	aristocrats = {
 		culture = british
@@ -418,130 +394,101 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 150
-	}
+		size= 150
 
-	aristocrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 7225
-	}
-
-	aristocrats = {
-		culture = mashriqi
-		religion = shiite
-		size = 100
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = shiite
-		size = 150
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = shiite
-		size = 300
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = shiite
-		size = 2000
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 5275
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3750
 	}
 	
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 1800
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 147.25
 	}
 
-}
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 101.5
+	}
 
-#Seiyun
-3273 = {
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 507.5
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size= 101
+
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 7433.75
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 101.5
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 147.25
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 304.5
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size= 2030
+
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 5455.25
+	}
+
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 10
+		size = 50.75
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 50.75
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size = 203.0
 	}
-	
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 50
+
+	}
+
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 3300
+		size = 3679.75
 	}
+
 }

@@ -5,52 +5,71 @@
 
 	aristocrats = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 76
 	}
 
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 5
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 25
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 70
 	}
 
 	clergymen = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 20
 	}
 
 	farmers = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 2080
 	}
 	
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_dutch
 		religion = catholic
 		size = 900
 	}
 }
 #Aruba (2400/600 POPS)
 2235 = {
+	
+	aristocrats = {
+		culture = dutch
+		religion = reformed
+		size = 1
+	}
+	
+	clergymen = {
+		culture = dutch
+		religion = reformed
+		size = 25
+	}
+	
+	farmers = {
+		culture = dutch
+		religion = reformed
+		size = 400
+	}
+
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_dutch
 		religion = catholic
-		size = 200
+		size = 175
 	}
 }
 #Philipsburg - Saint Martin (4800/1200 POPS)
@@ -58,30 +77,30 @@
 
 	aristocrats = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 10
 	}
 	
 	clergymen = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = afro_dutch
 		religion = protestant
 		size = 55
 	}
 	
 	farmers = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_dutch
 		religion = protestant
 		size = 100
 	}

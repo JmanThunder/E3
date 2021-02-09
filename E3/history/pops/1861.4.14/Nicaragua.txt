@@ -1,164 +1,130 @@
-#Nicaragua Region (292000)
-#Ruled by Central America 1836
-#Managua (192000/48000 POPS)
+#Nicaragua Region (350500)
+#Managua (227500/56875 POPS)
 2197 = {
 	aristocrats = {
 		culture = central_american
 		religion = catholic
 		size = 1050
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	bureaucrats = {
 		culture = central_american
 		religion = catholic
-		size = 100
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 700
 	}
 
 	officers = {
 		culture = central_american
 		religion = catholic
-		size = 75
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 125
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 475
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 650
 	}
 
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 2400
+		size = 4350
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 1475
-
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 5000
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 43425
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 45000
 	}
 }
-#Rivas (40000/10000 POPS)
+#Rivas (47000/11750 POPS)
 2198 = {
 	aristocrats = {
 		culture = central_american
 		religion = catholic
 		size = 275
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 100
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 150
 	}
 
 	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 825
+	}
+
+	soldiers = {
 		culture = central_american
 		religion = catholic
 		size = 500
 	}
 
-	soldiers = {
-		culture = central_american
-		religion = catholic
-		size = 100
-
-		militancy = 9
-		rebel_type = nationalist_rebels
-	}
-
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 9025
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 10000
 	}
 }
-#Esteli (48000/12000 POPS)
+#Esteli (62000/15500 POPS)
 2199 = {
 	aristocrats = {
 		culture = central_american
 		religion = catholic
 		size = 325
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 125
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 175
 	}
 
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 600
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 1100
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 125
-
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 9500
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 11825
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 13500
 	}
 }
-#Bluefields (12000/3000 POPS)
+#Bluefields (14000/3500 POPS)
 2200 = {
 	aristocrats = {
 		culture = central_american
 		religion = catholic
-		size = 10
+		size = 15
 	}
 
 	clergymen = {
 		culture = central_american
 		religion = catholic
-		size = 15
+		size = 25
 	}
 
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 15
+		size = 50
 	}
 
 	soldiers = {
@@ -170,31 +136,30 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 120
+		size = 1400
 	}
 
-	soldiers = {
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
 		culture = afro_caribbean
 		religion = catholic
 		size = 100
 	}
 
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 50
+	}
+
 	farmers = {
 		culture = afro_caribbean
 		religion = catholic
-		size = 270
+		size = 1800
 	}
-	
-	farmers = {
-		culture = afro_caribbean
-		religion = animist
-		size = 190
-	}
-	
-	farmers = {
-		culture = native_american_minor #native_american_minor
-		religion = animist
-		size = 2200
-	}
-
 }

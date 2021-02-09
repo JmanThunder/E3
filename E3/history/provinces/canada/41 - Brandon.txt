@@ -1,8 +1,7 @@
-owner = MTC
-controller = MTC
+owner = RPL
+controller = RPL
 add_core = MTC
 add_core = RPL
 trade_goods = grain
-life_rating = 30
-terrain = plains
+life_rating = 31
 colonial = 2

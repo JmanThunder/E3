@@ -45,7 +45,7 @@ upper_house = {
 	liberal = 12
 	conservative = 77
 	reactionary = 11
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -64,18 +64,23 @@ nonstate_consciousness = 0
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 oob = "BUR_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/BUR_oob.txt"
-	# literacy = 0.07
-	# non_state_culture_literacy = 0.04
+1861.1.1 = {
+	oob = "/1861/BUR_oob.txt"
+	literacy = 0.07
+	non_state_culture_literacy = 0.04
 	
-	# #Military Reforms
-	# foreign_training = yes_foreign_training
-	# foreign_weapons = yes_foreign_weapons
+	#Military Reforms
+	foreign_training = yes_foreign_training
+	foreign_weapons = yes_foreign_weapons
 	
-	# #Technologies
-	# flintlock_rifles = 1
-# }
+	#Technologies
+	flintlock_rifles = 1
+}
 

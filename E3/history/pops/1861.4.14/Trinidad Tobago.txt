@@ -1,53 +1,102 @@
-#Trinidad & Tobago Region (69000/14750 POPS)
-#ruled by Britain 1836
-#Trinidad (44000/11000 POPS)
+#Trinidad & Tobago Region (99800)
+#Trinidad (84400/21100 POPS)
 2237 = {
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 50
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 15
+		size = 175
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 100
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 500
+		size = 750
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 90
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 410
+		size = 750
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 75
+		size = 160
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 750
+		size = 1325
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 17500
+	}
+}
+#Tobago (15400/3850 POPS)
+2238 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 40
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 60
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 150
 	}
 
 	soldiers = {
@@ -59,14 +108,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 9075
+		size = 3430
 	}
-}
-#Tobago (15000/3750 POPS)
-2238 = {
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 200
-	}
+
 }

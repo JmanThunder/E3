@@ -1,23 +1,22 @@
-#Surinam : 56640
-#Ruled by The Netherlands 1836
-#Paramaribo (48640/12160 POPS)
+#Surinam (53300)
+#Paramaribo (46100/11525 POPS)
 2240 = {
 	aristocrats = {
 		culture = dutch
 		religion = protestant
-		size = 75
+		size = 25
 	}
 
 	bureaucrats = {
 		culture = dutch
 		religion = protestant
-		size = 60
+		size = 10
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 100
+		size = 50
 	}
 
 	soldiers = {
@@ -27,25 +26,25 @@
 	}
 
 	clergymen = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 1750
 	}
 
 	farmers = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 1200
 	}
 
 	soldiers = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 25
 	}
@@ -53,10 +52,10 @@
 	slaves = {
 		culture = afro_caribbean
 		religion = animist
-		size = 9000
+		size = 8365
 	}
 }
-#Aperina (8000/2000 POPS)
+#Aperina (7200/1800 POPS)
 2245 = {
 	aristocrats = {
 		culture = amazonian
@@ -85,7 +84,6 @@
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 1750
+		size = 1600
 	}
-
 }

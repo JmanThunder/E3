@@ -1,4 +1,9 @@
 color = { 90  150  90 }
+absolute_monarchy = { 20 140 65 }
+parliamentary_republic = { 130 180 100  }
+fascist_dictatorship = { 30 60 0 }
+presidential_dictatorship = { 130 180 100 }
+proletarian_dictatorship = { 120 50 50}
 graphical_culture = SouthAmericanGC
 
 party = {
@@ -47,11 +52,11 @@ party = {
 }
 
 party = {
-	name = "USS_anarcho_liberal"
+	name = "USS_radical"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
-	ideology = anarcho_liberal
+	ideology = radical
 	
 	social_policy = no_state_interference
 	economic_policy = laissez_faire

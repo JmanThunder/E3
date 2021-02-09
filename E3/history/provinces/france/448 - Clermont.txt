@@ -1,7 +1,9 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-trade_goods = coal
+
+add_core = OCC
+trade_goods = cattle
 life_rating = 30
 1861.1.1 = {
 	state_building = {

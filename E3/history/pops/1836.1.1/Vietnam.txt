@@ -121,7 +121,7 @@
 	aristocrats = {
 		culture = vietnamese
 		religion = mahayana
-		size = 2750
+		size = 2650
 	}
 
 	clergymen = {
@@ -147,11 +147,17 @@
 		religion = mahayana
 		size = 119050
 	}
+	
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 100
+	}
 
 	clergymen = {
 		culture = yue
 		religion = mahayana
-		size = 50
+		size = 250
 	}
 
 	artisans = {
@@ -163,7 +169,7 @@
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 700
+		size = 1000
 	}
 
 	clergymen = {
@@ -231,7 +237,7 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 30800
+		size = 33800
 	}
 
 	slaves = {
@@ -279,13 +285,13 @@
 	soldiers = {
 		culture = zhuang
 		religion = animist
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = zhuang
 		religion = animist
-		size = 25100
+		size = 21100
 	}
 }
 #Son La (300000/75000 POPS)
@@ -345,31 +351,31 @@
 	}
 
 	aristocrats = {
-		culture = lao
+		culture = asian_minor
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = lao
+		culture = asian_minor
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = lao
+		culture = asian_minor
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = lao
+		culture = asian_minor
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = lao
+		culture = asian_minor
 		religion = animist
 		size = 12750
 	}
@@ -379,19 +385,19 @@
 	aristocrats = {
 		culture = vietnamese
 		religion = mahayana
-		size = 1425
+		size = 1025
 	}
 
 	clergymen = {
 		culture = vietnamese
 		religion = mahayana
-		size = 700
+		size = 500
 	}
 
 	artisans = {
 		culture = vietnamese
 		religion = mahayana
-		size = 3450
+		size = 2450
 	}
 
 	soldiers = {
@@ -403,13 +409,49 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 42405
+		size = 32405
 	}
-
+	
 	slaves = {
 		culture = vietnamese
 		religion = mahayana
-		size = 2000
+		size = 1000
+	}
+	
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 1100
+	}
+	
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 30405
+	}
+
+	slaves = {
+		culture = zhuang
+		religion = animist
+		size = 1000
 	}
 
 	clergymen = {
@@ -431,21 +473,21 @@
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = mahayana
 		size = 1650
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = mahayana
-		size = 21275
+		size = 1275
 	}
 }
 #Thanh Hoa (484000/121000 POPS)
@@ -573,6 +615,12 @@
 		religion = catholic
 		size = 29750
 	}
+	
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 150
+	}
 
 	clergymen = {
 		culture = yue
@@ -699,32 +747,32 @@
 	}
 
 	aristocrats = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 19975
 	}
 
@@ -775,7 +823,7 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 20925
+		size = 30925
 	}
 
 	slaves = {
@@ -800,11 +848,6 @@
 		culture = vietnamese
 		religion = catholic
 		size = 3750
-	}
-	farmers = {
-		culture = malay
-		religion = sunni
-		size = 13750
 	}
 }
 #Quinhon (120000/30000 POPS)
@@ -840,32 +883,32 @@
 	}
 
 	aristocrats = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = asian_minor
+		religion = animist
 		size = 21825
 	}
 }
@@ -876,7 +919,7 @@
 	aristocrats = {
 		culture = vietnamese
 		religion = mahayana
-		size = 3600
+		size = 2600
 	}
 
 	bureaucrats = {
@@ -900,7 +943,7 @@
 	artisans = {
 		culture = vietnamese
 		religion = mahayana
-		size = 7500
+		size = 5500
 	}
 
 	soldiers = {
@@ -912,13 +955,19 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 161725
+		size = 151725
 	}
 
 	slaves = {
 		culture = vietnamese
 		religion = mahayana
 		size = 15000
+	}
+	
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 600
 	}
 
 	clergymen = {
@@ -930,13 +979,13 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 2100
+		size = 3100
 	}
 
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 1825
+		size = 4825
 	}
 
 	clergymen = {
@@ -948,13 +997,13 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 1600
+		size = 2600
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 1350
+		size = 4350
 	}
 
 	clergymen = {
@@ -1026,31 +1075,31 @@
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 7275
 	}
@@ -1112,7 +1161,7 @@
 	}
 	
 	farmers = {
-		culture = malay
+		culture = asian_minor
 		religion = sunni
 		size = 6000
 	}

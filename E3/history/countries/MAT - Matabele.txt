@@ -30,7 +30,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-
 # New Reforms
 conscription = no_draft
 debt_law = peonage
@@ -49,7 +48,7 @@ upper_house = {
 	liberal = 0
 	conservative = 100
 	reactionary = 0
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -61,7 +60,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "MAT_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/MAT_oob.txt"
-	# capital = 2071
-# }
+1861.1.1 = {
+	oob = "/1861/MAT_oob.txt"
+	capital = 2071
+}

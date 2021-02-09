@@ -13,7 +13,7 @@ upper_house = {
 	liberal = 15
 	conservative = 80
 	reactionary = 5
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -47,8 +47,11 @@ colonial_policy = no_colonies
 
 
 foreign_weapons = yes_foreign_weapons
+# Technologies
 flintlock_rifles = 1
 
-set_country_flag = sunni_country
+# Inventions
+small_arms_production = yes
+ammunition_production = yes
 
-oob = "JAV_oob.txt"
+set_country_flag = sunni_country

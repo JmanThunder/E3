@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 10
 	conservative = 78
 	reactionary = 12
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -55,13 +55,18 @@ foreign_weapons = yes_foreign_weapons
 flintlock_rifles = 1
 
 # Inventions
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "HAL_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/HAL_oob.txt"
-# }
+1861.1.1 = {
+	oob = "/1861/HAL_oob.txt"
+}
 

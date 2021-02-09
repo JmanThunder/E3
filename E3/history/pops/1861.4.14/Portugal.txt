@@ -1,12 +1,134 @@
-#Duoro e Minho Region (1660000)
-#Oporto (768000/192000 POPS)
+#Duoro e Minho Region (2292120)
+#Oporto (1075520/268880 POPS)
 518 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 1500
+		size = 2100
 	}
 
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 700
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 2900
+	}
+
+	craftsmen = {
+		culture = portuguese
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 21700
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 233280
+	}
+}
+#Vila Real (451600/112900) POPS
+519 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1190
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 1075
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 5450
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1400
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 103985
+	}
+}
+#Covilha (765000/191250 POPS)
+520 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1750
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 2100
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9425
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1900
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 176175
+	}
+
+}
+#Beira-Estremadura Region (1470420)
+#Lisbon (474900/118725 POPS)
+521 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1400
+	}
+
+	capitalists = {
+		culture = portuguese
+		religion = catholic
+		size = 200
+	}
+	
 	officers = {
 		culture = portuguese
 		religion = catholic
@@ -16,167 +138,115 @@
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 800
+		size = 950
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 1100
+		size = 1700
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
+		size = 78975
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 2500
+		size = 4000
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 150200
+		size = 31500
 	}
 }
-#Vila Real (324000/81000) POPS
-519 = {
+#Coimbra (644960/161240 POPS)
+522 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 1850
+		size = 1800
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 625
+		size = 1900
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 3250
+		size = 8120
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 1100
+		size = 2800
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 69275
+		size = 146720
 	}
 }
-#Covilha (568000/142000 POPS)
-520 = {
+#Abrantes (195200/348800 POPS)
+523 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 1250
+		size = 630
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 1500
+		size = 600
 	}
 
 	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 7250
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 1500
-	}
-
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 86500
-	}
-
-}
-#Beira-Estremadura Region (1060000)
-#Lisbon (348000/87000 POPS)
-521 = {
-	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 1100
-	}
-
-	officers = {
-		culture = portuguese
-		religion = catholic
-		size = 350
-	}
-
-	bureaucrats = {
-		culture = portuguese
-		religion = catholic
-		size = 650
-	}
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 1100
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 8500
-	}
-
-	soldiers = {
 		culture = portuguese
 		religion = catholic
 		size = 3000
 	}
 
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1500
+	}
+
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 68500
+		size = 44170
 	}
 }
-#Coimbra (460000/115000 POPS)
-522 = {
+#Setubal (155360/38840 POPS)
+524 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 1200
+		size = 500
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 1200
+		size = 520
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 800
+		size = 4000
 	}
 
 	soldiers = {
@@ -188,259 +258,195 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 99800
+		size = 31920
 	}
+
 }
-#Abrantes (140000/35000 POPS)
-523 = {
+#Alentejo-Algarve Region (510780)
+#Evora (216540/54135 POPS)
+525 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 450
+		size = 1100
+	}
+
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 140
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 200
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 350
+		size = 695
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 2250
+		size = 2750
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 400
+		size = 1400
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 41550
+		size = 47950
 	}
 }
-#Setubal (112000/28000 POPS)
-524 = {
+#Beja (133400/33350 POPS)
+526 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 400
+		size = 700
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 300
+		size = 550
 	}
 
 	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
 		culture = portuguese
 		religion = catholic
 		size = 1500
 	}
 
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1350
+	}
+
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 42800
+		size = 30450
 	}
-
 }
-#Alentejo-Algarve Region (372000)
-#Evora (156000/39000 POPS)
-525 = {
+#Faro (160840/40210 POPS)
+527 = {
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
 		size = 850
 	}
 
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 525
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1450
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 36485
+	}
+
+}
+#Azores & Madeira Region (428960)
+#Azores (284440/71110 POPS)
+2134 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 600
+	}
+
 	officers = {
 		culture = portuguese
 		religion = catholic
-		size = 100
+		size = 80
 	}
 
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 150
+		size = 140
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 425
+		size = 625
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 2250
+		size = 4000
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 1100
+		size = 1400
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 44250
+		size = 64365
 	}
 }
-#Beja (96000/24000 POPS)
-526 = {
+#Madeira (144520/36130 POPS)
+2135 = {
 	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 500
-	}
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 1250
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 42250
-	}
-}
-#Faro (120000/30000 POPS)
-527 = {
-	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 550
-	}
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 325
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 1750
-	}
-
-	soldiers = {
 		culture = portuguese
 		religion = catholic
 		size = 350
 	}
 
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 41025
-	}
-
-}
-#Azores & Madeira Region (308000)
-#Azores (204000/51000 POPS)
-2134 = {
-	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 500
-	}
-
-	officers = {
-		culture = portuguese
-		religion = catholic
-		size = 50
-	}
-
-	bureaucrats = {
-		culture = portuguese
-		religion = catholic
-		size = 100
-	}
-
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 375
+		size = 475
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 3000
+		size = 1800
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 1100
+		size = 1350
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 45975
-	}
-}
-#Madeira (104000/26000 POPS)
-2135 = {
-	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 175
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 23825
+		size = 33355
 	}
 
 }

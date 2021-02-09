@@ -51,37 +51,37 @@
 	}
 
 	aristocrats = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 100
 	}
 	
 	officers = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 105
 	}
 
 	clergymen = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 105
 	}
 
 	artisans = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 350
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 1100
 	}
 
 	farmers = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 7630
 	}
@@ -271,31 +271,31 @@
 	}
 
 	aristocrats = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 145
 	}
 
 	clergymen = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 110
 	}
 
 	artisans = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 800
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 145
 	}
 
 	farmers = {
-		culture = amhara
+		culture = beta_israeli
 		religion = jewish
 		size = 11800
 	}
@@ -747,61 +747,61 @@
 	}
 	
 	aristocrats = {
-		culture = oromo
-		religion = coptic
+		culture = harari
+		religion = sunni
 		size = 275
 	}
 	
 	clergymen = {
-		culture = oromo
-		religion = coptic
+		culture = harari
+		religion = sunni
 		size = 100
 	}
 	
 	artisans = {
-		culture = oromo
-		religion = coptic
+		culture = harari
+		religion = sunni
 		size = 800
 	}
 	
 	soldiers = {
-		culture = oromo
-		religion = coptic
+		culture = harari
+		religion = sunni
 		size = 1250
 	}
 	
 	farmers = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 20000
 	}
 	
 	aristocrats = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 275
 	}
 	
 	clergymen = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 100
 	}
 	
 	artisans = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 800
 	}
 	
 	soldiers = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 1250
 	}
 	
 	farmers = {
-		culture = amhara
+		culture = harari
 		religion = coptic
 		size = 20000
 	}
@@ -1301,43 +1301,43 @@
 #Harer (384000/96000 POPS)
 1865 = {
 	aristocrats = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 910
 	}
 
 	bureaucrats = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 285
 	}
 
 	artisans = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = afar
+		culture = harari
 		religion = sunni
 		size = 39215
 	}

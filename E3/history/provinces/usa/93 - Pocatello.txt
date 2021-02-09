@@ -1,13 +1,12 @@
+owner = USA
+controller = USA
+add_core = USA
 add_core = COL
-add_core = UOR
+colonial = 2
 trade_goods = cattle
 life_rating = 35
-terrain = semidesert
-colonial = 2
-
 1861.1.1 = {
 	owner = USA
 	controller = USA
-	colonial = 2
 	remove_core = COL
 }

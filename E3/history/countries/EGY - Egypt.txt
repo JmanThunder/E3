@@ -46,7 +46,7 @@ upper_house = {
 	liberal = 10
 	conservative = 72
 	reactionary = 18
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -63,6 +63,7 @@ set_country_flag = sunni_country
 set_country_flag = exempt_from_vassal_contribution
 foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
+monetary_reform = yes_monetary_reform
 
 # Technologies
 flintlock_rifles = 1
@@ -70,37 +71,43 @@ bronze_muzzle_loaded_artillery = 1
 
 # Inventions
 
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
+
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "EGY_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/EGY_oob.txt"
-	# prestige = 5
-	# literacy = 0.10
-	# non_state_culture_literacy = 0.05
-# }
-# 1861.1.1 = {
+1861.1.1 = {
+	oob = "/1861/EGY_oob.txt"
+	prestige = 5
+	literacy = 0.10
+	non_state_culture_literacy = 0.05
+}
+1861.1.1 = {
 
-# set_country_flag = fate_of_egypt
-# set_global_flag = oriental_crisis
-# set_global_flag = egypt_submitted_to_ottomans
-# set_country_flag = muhammad_alis_reforms_enacted
-# nationalvalue = nv_tradition
+set_country_flag = fate_of_egypt
+set_global_flag = oriental_crisis
+set_global_flag = egypt_submitted_to_ottomans
+set_country_flag = muhammad_alis_reforms_enacted
+nationalvalue = nv_tradition
 
-# foreign_training = yes_foreign_training
-# foreign_weapons = yes_foreign_weapons
-# foreign_officers = yes_foreign_officers
-# finance_reform = finance_reform_two #International Debt
-# education_reform = yes_education_reform
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+finance_reform = finance_reform_two #International Debt
+education_reform = yes_education_reform
 
-# # Technologies
-# military_staff_system = 1
-# flintlock_rifles = 1
-# army_command_principle = 1
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1
+army_command_principle = 1
 
-# # Inventions
+# Inventions
 
-# }
+}

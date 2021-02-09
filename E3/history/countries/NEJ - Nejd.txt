@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 10
 	conservative = 78
 	reactionary = 12
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -55,14 +55,16 @@ foreign_weapons = yes_foreign_weapons
 flintlock_rifles = 1
 
 # Inventions
+small_arms_production = yes
+ammunition_production = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "NEJ_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/NEJ_oob.txt"
-	# literacy = 0.11
-	# non_state_culture_literacy = 0.04
-# }
+1861.1.1 = {
+	oob = "/1861/NEJ_oob.txt"
+	literacy = 0.11
+	non_state_culture_literacy = 0.04
+}

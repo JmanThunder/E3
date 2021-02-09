@@ -30,9 +30,21 @@ army = {
 	name = "The Shah's Army"
 	location = 1121 #Tehran
 	regiment = {
-		name= "Royal Guard"
+		name= "1. Royal Guard"
 		type = guard
 		home = 1121
+	}
+	
+	regiment = {
+		name= "2. Royal Guard"
+		type = guard
+		home = 1121
+	}
+	
+	regiment = {
+		name= "2. Nezam"
+		type = infantry
+		home = 1116
 	}
 
 	regiment = {
@@ -59,16 +71,21 @@ army = {
 
 	regiment = {
 		name= "5. Nezam"
-		type = irregular
+		type = infantry
 		home = 1130
 	}
 
 	regiment = {
 		name= "6. Nezam"
-		type = irregular
+		type = infantry
 		home = 1122
 	}
 	
+	regiment = {
+		name= "2. Zamburak"
+		type = artillery
+		home = 1135
+	}
 }
 
 army = {
@@ -80,11 +97,6 @@ army = {
 		home = 1113
 	}
 
-	regiment = {
-		name= "2. Nezam"
-		type = infantry
-		home = 1116
-	}
 	
 	regiment = {
 		name= "3. Nezam"
@@ -98,5 +110,9 @@ army = {
 		home = 1129
 	}
 
-
+	regiment = {
+		name= "3. Zamburak"
+		type = artillery
+		home = 1108
+	}
 }

@@ -1,7 +1,7 @@
 capital = 935
 primary_culture = bedouin
 religion = sunni
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.28
@@ -43,19 +43,24 @@ upper_house = {
 	liberal = 35
 	conservative = 55
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
-#schools = unciv_tech_school
+schools = unciv_tech_school
 
 foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
+
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Technologies
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
 
-oob = "KWT_oob.txt"

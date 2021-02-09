@@ -26,7 +26,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-
 # New Reforms
 conscription = no_draft
 debt_law = peonage
@@ -44,7 +43,7 @@ upper_house = {
 	liberal = 15
 	conservative = 80
 	reactionary = 5
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -58,8 +57,8 @@ set_country_flag = lacking_writing_system
 consciousness = 0
 nonstate_consciousness = 0
 oob = "SLW_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/SLW_oob.txt"
-	# foreign_weapons = yes_foreign_weapons
-	# flintlock_rifles = 1
-# }
+1861.1.1 = {
+	oob = "/1861/SLW_oob.txt"
+	foreign_weapons = yes_foreign_weapons
+	flintlock_rifles = 1
+}

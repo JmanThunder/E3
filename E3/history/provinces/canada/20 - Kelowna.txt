@@ -1,11 +1,8 @@
 owner = RPL
 controller = RPL
 add_core = COL
-add_core = UOR
 trade_goods = grain
-life_rating = 30
-colonial = 2
-
+life_rating = 31
 1861.1.1 = {
 	owner = ENG
 	controller = ENG

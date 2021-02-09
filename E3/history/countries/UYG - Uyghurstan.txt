@@ -45,7 +45,7 @@ upper_house = {
 	liberal = 5
 	conservative = 68
 	reactionary = 27
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -55,4 +55,3 @@ foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
-

@@ -44,7 +44,7 @@ upper_house = {
 	liberal = 15
 	conservative = 75
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -63,11 +63,11 @@ nonstate_consciousness = 0
 
 oob = "KUN_oob.txt"
 
-# 1861.1.1 = {
-	# oob = "/1861/AFG_oob.txt"
-# }
+1861.1.1 = {
+	oob = "/1861/AFG_oob.txt"
+}
 
-# 1861.1.1 = {
-	# #Military Reforms
-	# military_constructions = yes_military_constructions
-# }
+1861.1.1 = {
+	#Military Reforms
+	military_constructions = yes_military_constructions
+}

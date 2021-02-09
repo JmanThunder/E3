@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 30
 	conservative = 48
 	reactionary = 22
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -76,7 +76,7 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-hot_blast = 1
+mechanized_mining = 1
 basic_chemistry = 1
 
 #Inventions
@@ -84,5 +84,3 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 1
-
-oob = "SCL_oob.txt"

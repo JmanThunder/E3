@@ -46,7 +46,7 @@ upper_house = {
 	liberal = 33
 	conservative = 33
 	reactionary = 34
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -67,16 +67,15 @@ hot_blast = 1
 experimental_railroad = 1
 basic_chemistry = 1
 mechanical_production = 1
-mechanized_mining = 1
 market_structure = 1
 
 # Inventions
 
-# 1861.1.1 = {
-	# oob = "/1861/HUD_oob.txt"
-# }
-# 1861.1.1 = {
- # Technologies
+#1861.1.1 = {
+#	oob = "/1861/HUD_oob.txt"
+#}
+1861.1.1 = {
+# Technologies
 
-# Inventions
-# }
+#Inventions
+}

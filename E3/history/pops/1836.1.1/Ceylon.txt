@@ -184,37 +184,37 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 50
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 50
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 1100
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 675
 	}
 }
@@ -479,31 +479,31 @@
 #Maldives (24000/6000 POPS) #now independent
 1325 = {
 	aristocrats = {
-		culture = sinhala 
+		culture = asian_minor
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = sinhala 
+		culture = asian_minor
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala 
+		culture = asian_minor
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala 
+		culture = asian_minor
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = sinhala 
+		culture = asian_minor
 		religion = sunni
 		size = 5325
 	}

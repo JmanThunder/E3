@@ -1,6 +1,6 @@
 capital = 392
 primary_culture = wallonian
-culture = french
+culture = picard
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
@@ -28,7 +28,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-
 # New Reforms
 conscription = two_year_draft
 debt_law = peonage
@@ -47,8 +46,7 @@ upper_house = {
 	liberal = 28
 	conservative = 59
 	reactionary = 13
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
-

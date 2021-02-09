@@ -28,7 +28,6 @@ unemployment_subsidies = low_subsidies
 pensions = good_pensions 
 school_reforms = no_schools
 
-
 #New Reforms
 conscription = four_year_draft
 debt_law = debtors_prisons
@@ -47,13 +46,13 @@ upper_house = {
 	liberal = 55
 	conservative = 28
 	reactionary = 5
-	anarcho_liberal = 5
+	radical = 5
 	socialist = 5
 	communist = 2
 }
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

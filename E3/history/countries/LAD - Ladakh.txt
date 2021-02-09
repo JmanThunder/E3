@@ -12,7 +12,7 @@ upper_house = {
 	liberal = 15
 	conservative = 75
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -21,7 +21,7 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-# oob = "LAD_oob.txt"
+oob = "LAD_oob.txt"
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -53,5 +53,8 @@ colonial_policy = no_colonies
 set_country_flag = gelugpa_country
 
 # Inventions
-##bottling_process = yes
+#bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

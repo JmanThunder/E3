@@ -1,8 +1,16 @@
 USA = {
-	value = 75
+	value = 100
 }
 SPA = {
 	value = 75
+}
+
+leader = {
+    name = "D. Francisco López "
+    type = sea
+    date="1820.1.1"
+    personality = bastard
+    background = no_background
 }
 
 leader = {
@@ -30,14 +38,6 @@ leader = {
 }
 
 leader = {
-	name = "José de Hurrea"
-	type = land
-	date="1836.1.1"
-	personality = soldierly
-	background = nationalist
-}
-
-leader = {
 	name = "José de Herrera"
 	type = land
 	date="1836.1.1"
@@ -46,99 +46,78 @@ leader = {
 }
 
 army = {
-	name = "Ejército de Santa Anna"
+	name = "Activo Oajaca"
+	location = 2177
+	
+	regiment = {
+		name= "1.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}
+	
+	regiment = {
+		name= "2.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2173
+	}
 
-	leader = {
-	        name = "Martin Perfecto de Cos"
-	        type = land
-	        date="1836.1.1"
-	        personality = impulsive
-	        background = aristocrat
+	regiment = {
+		name= "3.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2167
+	}
+	
 }
 
-	location = 2159
+army = {
+	name = "Ejército del Ciudad Mejico"
+	location = 2172
 	regiment = {
-		name= "3er regimiento de infanteria"
+		name= "1.Division Comonfort"
 		type = infantry
+		home = 2176
+	}
+
+	regiment = {
+		name= "2.Division Comonfort"
+		type = irregular
 		home = 2159
 	}
 
 	regiment = {
-		name= "4to regimiento de infanteria"
-		type = infantry
-		home = 2167
-	}
-
-        regiment = {
-		name= "5to regimiento de infanteria"
-		type = infantry
-		home = 2167
-	}
-
-}
-
-army = {
-	name = "Ejército Ciudad de Mejico"
-	location = 2172
-	regiment = {
-		name= "1ra division de Dragones"
-		type = dragoon
-		home = 2172
-	}
-	
-    regiment = {
-		name= "2da division de Dragones"
-		type = dragoon
-		home = 2175
-	}
-
-	regiment = {
-		name= "1er regimiento de infanteria"
-		type = infantry
-		home = 2180
-	}
-
-	regiment = {
-		name= "2do regimiento de infanteria"
-		type = infantry
-		home = 2180
-	}
-	
-    regiment = {
-		name= "Batallón de San Blas"
-		type = artillery
-		home = 2170
+		name= "3.Division Comonfort"
+		type = irregular
+		home = 2174
 	}
 
 }
 
 navy = {
 	name = "Armada de Mexico"
-	location = 2162
+    location = 2184
 	ship = {
 		name= "Vencedor del Alamo"
 		type = frigate
 	}
-
 	ship = {
-		name= "Matilda"
-		type = frigate
-	}
-	
+        name= "Bravo"
+        type = frigate
+    }
     ship = {
-		name= "1.Transporte Veracruz"
-		type = clipper_transport
-	}
-	
+        name= "Vera Cruzana"
+        type = frigate
+    }
     ship = {
-		name= "2.Transporte Veracruz"
-		type = clipper_transport
-	}
-	
+        name= "Montezuma"
+        type = frigate
+    }
     ship = {
-		name= "3.Transporte Veracruz"
-		type = clipper_transport
+        name= "Lubardo"
+        type = frigate
+    }
+    ship = {
+        name= "Pelicano"
+        type = frigate
 	}
 
 }
-

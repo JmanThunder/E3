@@ -44,16 +44,24 @@ upper_house = {
 	liberal = 26
 	conservative = 61
 	reactionary = 13
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
 foreign_weapons = yes_foreign_weapons
+foreign_artillery = yes_foreign_artillery
 
 # Technologies
+military_staff_system = 1
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Inventions
 
@@ -62,23 +70,23 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TUN_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/TUN_oob.txt"
-# }
-# 1861.1.1 = {
+1861.1.1 = {
+	oob = "/1861/TUN_oob.txt"
+}
+1861.1.1 = {
 
-# # Political reforms
-# slavery = no_slavery
+# Political reforms
+slavery = no_slavery
 
-# foreign_training = yes_foreign_training
-# foreign_weapons = yes_foreign_weapons
-# foreign_officers = yes_foreign_officers
-# finance_reform = yes_finance_reform
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+finance_reform = yes_finance_reform
 
-# # Technologies
-# military_staff_system = 1
-# flintlock_rifles = 1
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1
 
-# # Inventions
+# Inventions
 
-# }
+}

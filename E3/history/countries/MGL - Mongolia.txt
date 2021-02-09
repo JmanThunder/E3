@@ -46,24 +46,35 @@ upper_house = {
 	liberal = 35
 	conservative = 55
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
+
+
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
+flintlock_rifles = 1
+
 # Inventions
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 1
 
-oob = "MGL_oob.txt"
+1861.1.1 = {
+	literacy = 0.04
+	non_state_culture_literacy = 0.07 #Chinese
 
-# 1861.1.1 = {
-	# literacy = 0.04
-	# non_state_culture_literacy = 0.07 #Chinese
-
-	# #Military Reforms
-	# foreign_training = yes_foreign_training
-# }
+	#Military Reforms
+	foreign_training = yes_foreign_training
+}
 

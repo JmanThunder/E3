@@ -1,6 +1,5 @@
-#French Guiana (20000)
-#Ruled by France 1836
-#Cayenne (17000/4250 POPS)
+#French Guiana (21000)
+#Cayenne (18000/4500 POPS)
 2241 = {
 	aristocrats = {
 		culture = french
@@ -11,13 +10,13 @@
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 10
+		size = 50
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 10
+		size = 150
 	}
 
 	artisans = {
@@ -35,35 +34,35 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 80
+		size = 150
 	}
 
 	artisans = {
-		culture = kreol
+		culture = afro_french
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = kreol
+		culture = afro_french
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = kreol
+		culture = afro_french
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = kreol
+		culture = afro_french
 		religion = catholic
 		size = 425
 	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = afro_french
 		religion = catholic
 		size = 2950
 	}
@@ -128,11 +127,5 @@
 		culture = amazonian
 		religion = animist
 		size = 680
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 250
 	}
 }

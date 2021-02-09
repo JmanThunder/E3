@@ -43,11 +43,11 @@ upper_house = {
 	liberal = 25
 	conservative = 65
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
+decision = kurdish_1836_setup
 
-oob = "SRN_oob.txt"

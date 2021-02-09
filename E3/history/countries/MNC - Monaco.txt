@@ -13,12 +13,12 @@ nationalvalue = nv_order
 literacy = 0.25
 civilized = yes 
 prestige = 0
-schools = culture_tech_school
-oob = "MNC_oob.txt"
 is_releasable_vassal = no
 
 
 set_country_flag = existing_country
+
+govt_flag = { government = absolute_monarchy flag = theocracy }
 
 
 #========================= H O U S E - O F - L O R D S =========================
@@ -31,7 +31,7 @@ conservative = 70
 socialist = 0
 communist = 0
 liberal = 0
-anarcho_liberal = 0
+radical = 0
 }
 
 
@@ -77,4 +77,3 @@ no_standard = 1
 introspectionism = 1
 #========================= Vic_Nation_Establisher by Diamond.David =========================
 
-oob = "MNC_oob.txt"

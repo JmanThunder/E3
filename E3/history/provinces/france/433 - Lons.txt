@@ -1,5 +1,6 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-trade_goods = grain
+add_core = BRG
+trade_goods = coal
 life_rating = 30

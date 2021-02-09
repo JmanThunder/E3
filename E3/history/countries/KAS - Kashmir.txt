@@ -14,7 +14,7 @@ upper_house = {
 	liberal = 15
 	conservative = 75
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -26,6 +26,15 @@ nonstate_consciousness = 0
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
+
+oob = "KAS_oob.txt"
+1861.1.1 = {
+	oob = "/1861/KAS_oob.txt"
+}
+
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -55,7 +64,3 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = hindu_country
-
-# 1861.1.1 = {
-	# oob = "/1861/KAS_oob.txt"
-# }

@@ -1,6 +1,5 @@
-#Guyana (99600)
-#Ruled by Britain 1836
-#Georgetown (58600/14650 POPS)
+#Guyana (148000)
+#Georgetown (86000/21500 POPS)
 2239 = {
 	aristocrats = {
 		culture = british
@@ -11,7 +10,7 @@
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 300
 	}
 
 	clergymen = {
@@ -35,47 +34,41 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 75
+		size = 200
 	}
 
 	artisans = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 300
+		size = 3300
 	}
 
 	soldiers = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 150
-	}
-	
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 3075
+		size = 1500
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 400
+		size = 15500
 	}
 }
-#Mahdia (4000/1000 POPS)
+#Mahdia (6000/1500 POPS)
 2242 = {
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 250
+	}
+
 	aristocrats = {
 		culture = amazonian
 		religion = animist
@@ -103,10 +96,10 @@
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 900
+		size = 1150
 	}
 }
-#Essequibo (33000/8250 POPS)
+#Essequibo (50000/12500 POPS)
 2243 = {
 	aristocrats = {
 		culture = british
@@ -135,7 +128,7 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 150
 	}
 
 	clergymen = {
@@ -153,23 +146,23 @@
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 75
+		size = 225
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 8000
-	}
-	
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 550
+		size = 11550
 	}
 }
-#Biloka (4000/1000 POPS)
+#Biloka (6000/1500 POPS)
 1979 = {
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 250
+	}
+
 	aristocrats = {
 		culture = amazonian
 		religion = animist
@@ -197,7 +190,6 @@
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 900
+		size = 1150
 	}
-
 }

@@ -192,7 +192,7 @@
 	}
 
 	artisans = {
-		culture = danish
+		culture = frisian
 		religion = protestant
 		size = 5500
 	}
@@ -308,47 +308,6 @@
 	}
 
 }
-
-#Ballum
-3333 = {
-	clergymen = {
-		culture = danish
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = danish
-		religion = protestant
-		size = 10
-	}
-
-	soldiers = {
-		culture = danish
-		religion = protestant
-		size = 15
-	}
-
-	farmers = {
-		culture = danish
-		religion = protestant
-		size = 1000
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 5
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 100
-	}
-
-}
-
 #Archipelago Region : 616000
 #Copenhagen (392000/98000 POPS)
 372 = {

@@ -1,7 +1,6 @@
 capital = 1878
-primary_culture = mande
-culture = fulbe
-culture = western_nigritic
+primary_culture = western_nigritic
+culture = mande
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -47,7 +46,7 @@ upper_house = {
 	liberal = 30
 	conservative = 50
 	reactionary = 20
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -63,8 +62,8 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "GBU_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/GBU_oob.txt"
-	# foreign_weapons = yes_foreign_weapons
-	# flintlock_rifles = 1
-# }
+1861.1.1 = {
+	oob = "/1861/GBU_oob.txt"
+	foreign_weapons = yes_foreign_weapons
+	flintlock_rifles = 1
+}

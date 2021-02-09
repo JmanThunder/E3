@@ -106,36 +106,36 @@
 
 	slaves = {
 		culture = gur
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 10750
 	}
@@ -234,7 +234,7 @@
 
 	slaves = {
 		culture = gur
-		religion = animist
+		religion = fetishist
 		size = 4000
 	}
 }
@@ -302,25 +302,25 @@
 
 	aristocrats = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	clergymen = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	soldiers = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
@@ -332,36 +332,36 @@
 
 	slaves = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 5800
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 1000
 	}
@@ -460,36 +460,36 @@
 
 	slaves = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 30
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 1800
 	}
@@ -499,33 +499,33 @@
 #Agades (168000/42000 POPS)
 1812 = {
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
-		size = 500
+		size = 575
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
-		size = 300
+		size = 350
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
-		size = 1100
+		size = 1500
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
-		size = 1100
+		size = 1150
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
-		size = 15000
+		size = 18625
 	}
 
 	aristocrats = {
@@ -560,116 +560,48 @@
 
 	slaves = {
 		culture = baguirmi
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 }
-#Arlit (16000/4000 POPS)
-1813 = {
-	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 75
-	}
 
-	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = berber
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 3625
-	}
-}
 #Madama (44000/11000 POPS)
 1814 = {
 	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 325
-	}
-
-	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 900
-	}
-
-	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 15100
-	}
-
-	slaves = {
-		culture = teda
-		religion = sunni
-		size = 1000
-	}
-
-	aristocrats = {
-		culture = teda
-		religion = sunni
-		size = 25
-	}
-
 	clergymen = {
-		culture = teda
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
-	soldiers = {
-		culture = teda
+	artisans = {
+		culture = tuareg
 		religion = sunni
-		size = 25
+		size = 550
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 125
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
-		size = 800
+		size = 9025
 	}
 
 	slaves = {
-		culture = baguirmi
-		religion = animist
+		culture = teda
+		religion = sunni
 		size = 1000
 	}
-
 }
 #Damergu Region (360000)
 #uncolonized in 1836/under the rule of Sultan of Zinder
@@ -743,36 +675,36 @@
 
 	slaves = {
 		culture = songhai
-		religion = animist
+		religion = fetishist
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 2150
 	}
@@ -811,31 +743,31 @@
 	}
 
 	aristocrats = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 1600
 	}
@@ -853,7 +785,7 @@
 	}
 
 	artisans = {
-		culture = berber
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}

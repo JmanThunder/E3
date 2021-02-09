@@ -1,4 +1,4 @@
-capital = 1775
+capital = 1776
 primary_culture = maures
 culture = berber
 culture = bedouin
@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 20
 	conservative = 60
 	reactionary = 20
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -64,7 +64,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TRZ_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/TRZ_oob.txt"
-# }
-
+1861.1.1 = {
+	oob = "/1861/TRZ_oob.txt"
+}

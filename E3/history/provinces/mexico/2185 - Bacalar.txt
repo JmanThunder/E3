@@ -2,8 +2,5 @@ owner = MEX
 controller = MEX
 add_core = MEX
 add_core = YUC
-add_core = MYA
 trade_goods = timber
-life_rating = 30
-terrain = jungle
-
+life_rating = 33

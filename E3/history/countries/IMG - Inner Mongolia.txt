@@ -1,7 +1,7 @@
 capital = 1534
 primary_culture = mongol
-culture = beifaren
-religion = animist
+culture = han_chinese
+religion = tengri
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -45,14 +45,14 @@ govt_flag = {
 
 set_country_flag = mahayana_country
 
-ruling_party = YNN_reactionary_2
+ruling_party = IMG_reactionary_2
 last_election = 1834.1.1
 upper_house = {
 	fascist = 0
 	liberal = 35
 	conservative = 55
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -65,13 +65,11 @@ nonstate_consciousness = 1
 
 # Inventions
 
-oob = "IMG_oob.txt"
+1861.1.1 = {
+	literacy = 0.04
+	non_state_culture_literacy = 0.07 #Chinese
 
-# 1861.1.1 = {
-	# literacy = 0.04
-	# non_state_culture_literacy = 0.07 #Chinese
-
-	# #Military Reforms
-	# foreign_training = yes_foreign_training
-# }
+	#Military Reforms
+	foreign_training = yes_foreign_training
+}
 

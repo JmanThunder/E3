@@ -1,6 +1,6 @@
 capital = 1524
-primary_culture = nanfaren
-religion = mahayana
+primary_culture = han_chinese
+religion = confucian
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -44,11 +44,14 @@ upper_house = {
 	liberal = 20
 	conservative = 50
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 20
 }
 
 # Inventions
-##bottling_process = yes
+#bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

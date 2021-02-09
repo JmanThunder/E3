@@ -23,7 +23,7 @@ upper_house = {
 	liberal = 11
 	conservative = 73
 	reactionary = 16
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -73,3 +73,6 @@ schools = unciv_tech_school
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

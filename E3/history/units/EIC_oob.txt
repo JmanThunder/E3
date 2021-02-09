@@ -1,6 +1,6 @@
 army = {
 	name = "The Bengal Army"
-	location = 1251
+	location = 1256
 	regiment = {
 		name= "3rd Queen Alexandra's Own Gurkha"
 		type = guard
@@ -64,7 +64,7 @@ army = {
 
 army = {
 	name = "The Bombay Army"
-	location = 1296
+	location = 1297
 	regiment = {
 		name= "1st Corps Mayne's Horse"
 		type = hussar
@@ -239,6 +239,162 @@ navy = {
 	}
 
 }
+
+navy = {
+	name = "East India Transport Squadron"
+	location = 1297
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+
+navy = {
+	name = "East India Transport Squadron"
+	location = 1297
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+
+navy = {
+	name = "East India Transport Squadron"
+	location = 1297
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
 
 navy = {
 	name = "East India Transport Squadron"

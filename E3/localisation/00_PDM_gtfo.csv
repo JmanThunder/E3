@@ -310,12 +310,12 @@ gtfo_GON_title;Grant Gonder Independence;;;;;;;;;;;;x,,
 gtfo_GON_desc;We've had a good run, but it's time to end our rulership of Gonder: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_IVC_title;Grant Ivory Coast Independence;;;;;;;;;;;;x,,
 gtfo_IVC_desc;We've had a good run, but it's time to end our rulership of Ivory Coast: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_JAL_title;Grant Fuuta Jallon Independence;;;;;;;;;;;;x,,
-gtfo_JAL_desc;We've had a good run, but it's time to end our rulership of Fuuta Jallon: if you love something, let it go!;;;;;;;;;;;;x
+gtfo_JAL_title;Grant Jallon Independence;;;;;;;;;;;;x,,
+gtfo_JAL_desc;We've had a good run, but it's time to end our rulership of Jallon: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_KBO_title;Grant Kanem-Bornu Independence;;;;;;;;;;;;x,,
 gtfo_KBO_desc;We've had a good run, but it's time to end our rulership of Kanem-Bornu: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_KNG_title;Grant Wattara Independence;;;;;;;;;;;;x,,
-gtfo_KNG_desc;We've had a good run, but it's time to end our rulership of Wattara: if you love something, let it go!;;;;;;;;;;;;x
+gtfo_KNG_title;Grant Kong Independence;;;;;;;;;;;;x,,
+gtfo_KNG_desc;We've had a good run, but it's time to end our rulership of Kong: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_KNY_title;Grant Kenya Independence;;;;;;;;;;;;x,,
 gtfo_KNY_desc;We've had a good run, but it's time to end our rulership of Kenya: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_KON_title;Grant Kongo Independence;;;;;;;;;;;;x,,
@@ -356,8 +356,8 @@ gtfo_OYO_title;Grant Oyo Independence;;;;;;;;;;;;x,,
 gtfo_OYO_desc;We've had a good run, but it's time to end our rulership of Oyo: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_RWA_title;Grant Rwanda Independence;;;;;;;;;;;;x,,
 gtfo_RWA_desc;We've had a good run, but it's time to end our rulership of Rwanda: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SEG_title;Grant Bambara Independence;;;;;;;;;;;;x,,
-gtfo_SEG_desc;We've had a good run, but it's time to end our rulership of Bambara: if you love something, let it go!;;;;;;;;;;;;x
+gtfo_SEG_title;Grant Ségou Independence;;;;;;;;;;;;x,,
+gtfo_SEG_desc;We've had a good run, but it's time to end our rulership of Ségou: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_SHO_title;Grant Shona Independence;;;;;;;;;;;;x,,
 gtfo_SHO_desc;We've had a good run, but it's time to end our rulership of Shona: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_SHW_title;Grant Shewa Independence;;;;;;;;;;;;x,,
@@ -378,8 +378,8 @@ gtfo_TNZ_title;Grant Tanganyika Independence;;;;;;;;;;;;x,,
 gtfo_TNZ_desc;We've had a good run, but it's time to end our rulership of Tanganyika: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_TOG_title;Grant Togo Independence;;;;;;;;;;;;x,,
 gtfo_TOG_desc;We've had a good run, but it's time to end our rulership of Togo: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_TOO_title;Grant Fouta Tooro Independence;;;;;;;;;;;;x,,
-gtfo_TOO_desc;We've had a good run, but it's time to end our rulership of Fouta Tooro: if you love something, let it go!;;;;;;;;;;;;x
+gtfo_TOO_title;Grant Tooro Independence;;;;;;;;;;;;x,,
+gtfo_TOO_desc;We've had a good run, but it's time to end our rulership of Tooro: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_TOU_title;Grant Toucouleur Empire Independence;;;;;;;;;;;;x,,
 gtfo_TOU_desc;We've had a good run, but it's time to end our rulership of Toucouleur Empire: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_TRZ_title;Grant Mauritania Independence;;;;;;;;;;;;x,,
@@ -914,5 +914,63 @@ gtfo_QNG_title;Grant Qing Independence;;;;;;;;;;;;x,,
 gtfo_QNG_desc;We've had a good run, but it's time to end our rulership of Qing: if you love something, let it go!;;;;;;;;;;;;x
 gtfo_BNG_title;Grant Bengal Independence;;;;;;;;;;;;x,,
 gtfo_BNG_desc;We've had a good run, but it's time to end our rulership of Bengal: if you love something, let it go!;;;;;;;;;;;;x
-gtfo_SIE_title;Grant Siebenbürgen Independence;;;;;;;;;;;;
-gtfo_SIE_desc;We've had a good run, but it's time to end our rulership of Siebenbürgen: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D01_title;Grant Dynamic Country 01 Independence;;;;;;;;;;;;
+gtfo_D01_desc;We've had a good run, but it's time to end our rulership of D01: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D02_title;Grant Dynamic Country 02 Independence;;;;;;;;;;;;
+gtfo_D02_desc;We've had a good run, but it's time to end our rulership of D02: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D03_title;Grant Dynamic Country 03 Independence;;;;;;;;;;;;
+gtfo_D03_desc;We've had a good run, but it's time to end our rulership of D03: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D04_title;Grant Dynamic Country 04 Independence;;;;;;;;;;;;
+gtfo_D04_desc;We've had a good run, but it's time to end our rulership of D04: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D05_title;Grant Dynamic Country 05 Independence;;;;;;;;;;;;
+gtfo_D05_desc;We've had a good run, but it's time to end our rulership of D05: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D06_title;Grant Dynamic Country 06 Independence;;;;;;;;;;;;
+gtfo_D06_desc;We've had a good run, but it's time to end our rulership of D06: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D07_title;Grant Dynamic Country 07 Independence;;;;;;;;;;;;
+gtfo_D07_desc;We've had a good run, but it's time to end our rulership of D07: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D08_title;Grant Dynamic Country 08 Independence;;;;;;;;;;;;
+gtfo_D08_desc;We've had a good run, but it's time to end our rulership of D08: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D09_title;Grant Dynamic Country 09 Independence;;;;;;;;;;;;
+gtfo_D09_desc;We've had a good run, but it's time to end our rulership of D09: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D10_title;Grant Dynamic Country 10 Independence;;;;;;;;;;;;
+gtfo_D10_desc;We've had a good run, but it's time to end our rulership of D10: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D11_title;Grant Dynamic Country 11 Independence;;;;;;;;;;;;
+gtfo_D11_desc;We've had a good run, but it's time to end our rulership of D11: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D12_title;Grant Dynamic Country 12 Independence;;;;;;;;;;;;
+gtfo_D12_desc;We've had a good run, but it's time to end our rulership of D12: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D13_title;Grant Dynamic Country 13 Independence;;;;;;;;;;;;
+gtfo_D13_desc;We've had a good run, but it's time to end our rulership of D13: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D14_title;Grant Dynamic Country 14 Independence;;;;;;;;;;;;
+gtfo_D14_desc;We've had a good run, but it's time to end our rulership of D14: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D15_title;Grant Dynamic Country 15 Independence;;;;;;;;;;;;
+gtfo_D15_desc;We've had a good run, but it's time to end our rulership of D15: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D16_title;Grant Dynamic Country 16 Independence;;;;;;;;;;;;
+gtfo_D16_desc;We've had a good run, but it's time to end our rulership of D16: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D17_title;Grant Dynamic Country 17 Independence;;;;;;;;;;;;
+gtfo_D17_desc;We've had a good run, but it's time to end our rulership of D17: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D18_title;Grant Dynamic Country 18 Independence;;;;;;;;;;;;
+gtfo_D18_desc;We've had a good run, but it's time to end our rulership of D18: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D19_title;Grant Dynamic Country 19 Independence;;;;;;;;;;;;
+gtfo_D19_desc;We've had a good run, but it's time to end our rulership of D19: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D20_title;Grant Dynamic Country 20 Independence;;;;;;;;;;;;
+gtfo_D20_desc;We've had a good run, but it's time to end our rulership of D20: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D21_title;Grant Dynamic Country 21 Independence;;;;;;;;;;;;
+gtfo_D21_desc;We've had a good run, but it's time to end our rulership of D21: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D22_title;Grant Dynamic Country 22 Independence;;;;;;;;;;;;
+gtfo_D22_desc;We've had a good run, but it's time to end our rulership of D22: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D23_title;Grant Dynamic Country 23 Independence;;;;;;;;;;;;
+gtfo_D23_desc;We've had a good run, but it's time to end our rulership of D23: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D24_title;Grant Dynamic Country 24 Independence;;;;;;;;;;;;
+gtfo_D24_desc;We've had a good run, but it's time to end our rulership of D24: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D25_title;Grant Dynamic Country 25 Independence;;;;;;;;;;;;
+gtfo_D25_desc;We've had a good run, but it's time to end our rulership of D25: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D26_title;Grant Dynamic Country 26 Independence;;;;;;;;;;;;
+gtfo_D26_desc;We've had a good run, but it's time to end our rulership of D26: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D27_title;Grant Dynamic Country 27 Independence;;;;;;;;;;;;
+gtfo_D27_desc;We've had a good run, but it's time to end our rulership of D27: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D28_title;Grant Dynamic Country 28 Independence;;;;;;;;;;;;
+gtfo_D28_desc;We've had a good run, but it's time to end our rulership of D28: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D29_title;Grant Dynamic Country 29 Independence;;;;;;;;;;;;
+gtfo_D29_desc;We've had a good run, but it's time to end our rulership of D29: if you love something, let it go!;;;;;;;;;;;;
+gtfo_D30_title;Grant Dynamic Country 30 Independence;;;;;;;;;;;;
+gtfo_D30_desc;We've had a good run, but it's time to end our rulership of D30: if you love something, let it go!;;;;;;;;;;;;

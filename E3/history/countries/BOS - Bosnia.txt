@@ -43,15 +43,15 @@ upper_house = {
 	liberal = 24
 	conservative = 65
 	reactionary = 11
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

@@ -75,32 +75,16 @@ take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W an
 take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ à la sphère d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphäre von $RECIPIENT$ entfernen;;;;;;;;;;;
 free_peoples;Free People Early;Peuple libre;Freies Volk;;;;;;;;;;;
 free_peoples_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
+free_peoples_desc;Liberate a §Ycountry§W from its oppressors;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
 free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;;;;;;;;;;
 free_peoples_midgame;Free People Midgame;Peuple libre;Freies Volk;;;;;;;;;;;
-free_peoples_midgame_short;$THIRD$ acquires $STATE$.;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_peoples_midgame_desc;Liberate a §Ycountry§W's state from its oppressors for 33% less warscore.;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
+free_peoples_midgame_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
+free_peoples_midgame_desc;Liberate a §Ycountry§W from its oppressors;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
 free_peoples_midgame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;;;;;;;;;;
 free_peoples_lategame;Free People Lategame;Peuple libre;Freies Volk;;;;;;;;;;;
-free_peoples_lategame_short;$THIRD$ acquires $STATE$.;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_peoples_lategame_desc;Liberate a §Ycountry§W's state from its oppressors for 55% less warscore.;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
+free_peoples_lategame_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
+free_peoples_lategame_desc;Liberate a §Ycountry§W from its oppressors;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
 free_peoples_lategame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;;;;;;;;;;
-liberate_country;Liberate Country;;Befreit das Land;;;;;;;;x;;;;
-liberate_country_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;
-liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;;x;;;;
-liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;;;x;
-liberate_country_midgame;Liberate Country Midgame;;Befreit das Land;;;;;;;;x;;;;
-liberate_country_midgame_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;
-liberate_country_midgame_desc;Liberate an §Yentire country§W from its oppressors for 33% less.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;;x;;;;
-liberate_country_midgame_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;;;x;
-liberate_country_late;Liberate Country Lategame;;Befreit das Land;;;;;;;;x;;;;
-liberate_country_late_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;
-liberate_country_late_desc;Liberate an §Yentire country§W from its oppressors for 55% less.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;;x;;;;
-liberate_country_late_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;;;x;
-liberate_country_verylate;Liberate Country Very-Lategame;;Befreit das Land;;;;;;;;x;;;;
-liberate_country_verylate_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;
-liberate_country_verylate_desc;Liberate an §Yentire country§W from its oppressors for 55% less, and now also allows for bigger releaseable countries like India or Ukraine.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;;x;;;;
-liberate_country_verylate_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;;;x;
 free_allied_cores;Free Allied Cores;Peuple libre;Freies Volk;;;;;;;;;;;
 free_allied_cores_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
 free_allied_cores_desc;Liberate cores belonging to an §Yallied country§W in your sphere;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;
@@ -129,10 +113,6 @@ place_in_the_sun;Place in the sun;Une place au soleil;Ein Platz an der Sonne;;;;
 place_in_the_sun_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
 place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;;;;;
 place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-place_in_the_sun_late;Place in the Sun Lategame;Une place au soleil;Ein Platz an der Sonne;;;;;;;;;;;
-place_in_the_sun_late_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-place_in_the_sun_late_desc;Aquire an enemy §Ycolonial state§W for 20% less.;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;;;;;
-place_in_the_sun_late_setup;Acquire colony $STATE$ from $RECIPIENT$ for 20% less.;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
 china_acquire_state;Chinese Reunification;Prendre État;$STATE$ erwerben;;;;;;;;;;;
 china_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
 china_acquire_state_desc;Aquire a Chinese §Ystate§W;Prendre un §YÉtat§W ennemi;Erobern Sie einen feindlichen §YStaat§W.;;;;;;;;;;;
@@ -154,7 +134,7 @@ demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more wa
 demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;;;;;
 demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;;;;;
 demand_concession_casus_belli_ai_early;Demand Concession Early;Demande de concession;Konzession verlangen;;;;;;;;;;;
-demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;;;;;
+demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10	% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;;;;;
 demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;;;;;
 demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;;;;;
 demand_concession_NI_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;;;;;
@@ -336,3 +316,21 @@ AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$Oriental Crisis;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
+demand_concession_capital;Demand Capital Concession;x
+demand_concession_capital_desc;Force a §Ycountry§W to secede its capital to form a concession.;x
+demand_concession_capital_setup;Demand that $RECIPIENT$ secede their capital to form a concession.;x
+demand_concession_capital_casus_belli_short;Demand the capital state of $STATE$;x
+conquest_low;Minor Conquest;;;;;;;;;;;;;x;;;;;;;;;;;
+conquest_low_desc;Annex a §Ycountry§W of small size and population by conquest;;;;;;;;;;;;;x;;;;;;;;;;;
+conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;;;;;;;;;;x;;;;;;;;;;;
+conquest_low_short;Annex $RECIPIENT$;;;;;;;;;;;;;x;;;;;;;;;;;
+acquire_core_substate_region;Acquire core substate region;x
+acquire_core_substate_region_desc;Acquire one of your core regions from enemy §Ysubstate§W;x
+acquire_core_substate_region_short;Acquire $STATE$;x
+acquire_core_substate_region_setup;Acquire your core, $STATE$, from $RECIPIENT$;x
+liberate_puppet;Liberate and Puppet Country;;Befreit das Land;;;;;;;;x;;;;
+liberate_puppet_desc;Liberate and puppet an §Yentire country§W from its oppressors\n\n§YNOTE: §RDo not use it with normal Free people or Liberate Country CBs for other non existent countries.§W;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;;x;;;;
+liberate_puppet_short;$THIRD$ acquires $STATE$ and becomes a puppet;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;
+liberate_puppet_setup;Puppet and return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;;;x;
+#;;;;;;;;;;;;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;;;;;;;;;;;;x

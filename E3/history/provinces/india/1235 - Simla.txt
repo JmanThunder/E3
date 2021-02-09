@@ -1,14 +1,10 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
+owner = EIC
+controller = EIC
+add_core = SHI
 add_core = MUG
+add_core = PNJ
 add_core = HND
 trade_goods = wool
 life_rating = 32
 colonial = 2
 terrain = montane_forest
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}

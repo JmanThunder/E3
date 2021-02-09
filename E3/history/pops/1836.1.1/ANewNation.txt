@@ -1,46 +1,53 @@
-#Monaco (7200/1800 POPS)
+#Monaco (170800/22700 POPS)
 3251 = {
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 150
+		size = 250
 	}
+
 	clergymen = {
 		culture = north_italian
 		religion = catholic
 		size = 25
 	}
+
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 250
 	}
+
 	soldiers = {
 		culture = occitan
 		religion = catholic
-		size = 50
+		size= 100
+
 	}
+
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 640
+		size = 1225
 	}
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 125
+		size = 250
 	}
 
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 700
+		size = 2850
 	}
+
 	bureaucrats = {
 		culture = occitan
 		religion = catholic
 		size = 10
 	}
+
 }
 
 #Andorra (228000/37000 POPS)
@@ -130,12 +137,12 @@
 	}
 }
 
-#Liechtenstein (6107/1527 POPS)
+#Liechtenstein
 3253 = {
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 50
+		size = 100
 	}
 	bureaucrats = {
 		culture = south_german
@@ -151,20 +158,20 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 100
+		size = 450
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 20
+		size= 100
 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 475
+		size = 875
 	}
 
 	aristocrats = {
@@ -195,25 +202,23 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 287
+		size = 1075
 	}
 }
 
 
-#San Marino (7800/1950 POPS)
+#San Marino
 3266 = {
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 100
 	}
-	
 	bureaucrats = {
 		culture = north_italian
 		religion = catholic
 		size = 10
 	}
-	
 	clergymen = {
 		culture = north_italian
 		religion = catholic
@@ -223,18 +228,43 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 250
+		size = 450
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 100
+		size= 100
+
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 1510
+		size = 1875
+	}
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 30
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 350
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 1075
 	}
 }

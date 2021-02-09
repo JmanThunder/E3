@@ -1,7 +1,7 @@
 capital = 1602
-primary_culture = nanfaren
+primary_culture = han_chinese
 culture = hanhui
-religion = mahayana
+religion = confucian
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -44,7 +44,7 @@ upper_house = {
 	liberal = 10
 	conservative = 0
 	reactionary = 100
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -53,17 +53,21 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "YNN_oob.txt"
-# 1861.1.1 = {
 
-# foreign_weapons = yes_foreign_weapons
 
-# # Technologies
-# flintlock_rifles = 1
+foreign_weapons = yes_foreign_weapons
+flintlock_rifles = 1
 
-# # Inventions
-# ##bottling_process = yes
-# modern_winemaking = yes
 
-# }
+1861.1.1 = {
 
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
+flintlock_rifles = 1
+
+# Inventions
+##bottling_process = yes
+modern_winemaking = yes
+
+}

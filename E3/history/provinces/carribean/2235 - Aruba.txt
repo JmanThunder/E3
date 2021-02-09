@@ -1,9 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = NIC
-trade_goods = tobacco
+owner = NET
+controller = NET
+trade_goods = precious_metal
 life_rating = 35
 colonial = 2
-terrain = coral_island
-is_slave = yes
+terrain = new_world_small_island

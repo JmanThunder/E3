@@ -1,9 +1,10 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-trade_goods = iron
+add_core = ARP
+trade_goods = grain
 life_rating = 30
-terrain = lyon
+terrain =  lyon
 railroad = 1
 state_building = {
 	level = 1

@@ -1,9 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = IRQ
 trade_goods = wool
-life_rating = 5
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-
+life_rating = 20

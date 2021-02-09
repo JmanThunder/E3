@@ -31,7 +31,7 @@ debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = open_borders
+border_policy = closed_borders
 centralization = federalism
 colonial_policy = no_colonies 
 
@@ -43,21 +43,18 @@ upper_house = {
 	liberal = 18
 	conservative = 21
 	reactionary = 61
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
-govt_flag = {
-	government = hms_government
-	flag = democracy
-	
-	government = prussian_constitutionalism
-	flag = democracy
-}
+govt_flag = { government = hms_government flag = democracy }
+govt_flag = { government = semi_constitutional_empire flag = democracy }
+govt_flag = { government = constitutional_empire flag = democracy }
 
 foreign_weapons = yes_foreign_weapons
 land_reform = yes_land_reform
+monetary_reform = yes_monetary_reform
 
 # Technologies
 flintlock_rifles = 1
@@ -69,20 +66,25 @@ nonstate_consciousness = 0
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 oob = "KOR_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/KOR_oob.txt"
-	# literacy = 0.09
-	# non_state_culture_literacy = 0.05
+1861.1.1 = {
+	oob = "/1861/KOR_oob.txt"
+	literacy = 0.09
+	non_state_culture_literacy = 0.05
 
-	# foreign_weapons = yes_foreign_weapons
-	# foreign_officers = yes_foreign_officers
-	# admin_reform = yes_admin_reform
-	# land_reform = yes_land_reform
+	foreign_weapons = yes_foreign_weapons
+	foreign_officers = yes_foreign_officers
+	admin_reform = yes_admin_reform
+	land_reform = yes_land_reform
 
-	# # Technologies
-	# flintlock_rifles = 1
-	# military_staff_system = 1
-# }
+	# Technologies
+	flintlock_rifles = 1
+	military_staff_system = 1
+}
 

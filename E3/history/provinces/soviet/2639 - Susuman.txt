@@ -3,9 +3,5 @@ controller = AZH
 add_core = AZH
 add_core = HAL
 trade_goods = wool
-life_rating = 10
+life_rating = 20
 terrain = desert
-1861.1.1 = {
-	owner = HAL
-	controller = HAL
-}

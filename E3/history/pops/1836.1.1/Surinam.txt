@@ -4,54 +4,54 @@
 2240 = {
 	aristocrats = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 60
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 100
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = reformed
 		size = 75
 	}
 
 	clergymen = {
-		culture = mullato
+		culture = kreol
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = mullato
+		culture = kreol
 		religion = protestant
 		size = 1750
 	}
 
 	farmers = {
-		culture = mullato
+		culture = kreol
 		religion = protestant
 		size = 1200
 	}
 
 	soldiers = {
-		culture = mullato
+		culture = kreol
 		religion = protestant
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_dutch
 		religion = animist
 		size = 9000
 	}

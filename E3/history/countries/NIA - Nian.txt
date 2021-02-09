@@ -1,7 +1,6 @@
 capital = 1508
-primary_culture = beifaren
-culture = nanfaren
-religion = mahayana
+primary_culture = han_chinese
+religion = confucian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -33,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = closed_borders
 centralization = unitary
 colonial_policy = no_colonies 
@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 0
 	conservative = 25
 	reactionary = 75
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -60,9 +60,9 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-# 1861.1.1 = {
-	# oob = "/1861/TPG_oob.txt"
-	# literacy = 0.07
-	# non_state_culture_literacy = 0.04
-	# set_country_flag = theocratic_government
-# }
+1861.1.1 = {
+	oob = "/1861/TPG_oob.txt"
+	literacy = 0.07
+	non_state_culture_literacy = 0.04
+	set_country_flag = theocratic_government
+}

@@ -1,8 +1,7 @@
 add_core = LSK
 trade_goods = fish
 life_rating = 15
-terrain = montane_tundra
-colonial = 2
+terrain = new_world_arctic
 1861.1.1 = {
 	owner = RUS
 	controller = RUS

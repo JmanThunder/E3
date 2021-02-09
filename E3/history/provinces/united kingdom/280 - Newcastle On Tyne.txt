@@ -1,7 +1,7 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-trade_goods = coal
+trade_goods = iron
 life_rating = 35
 terrain = newcastle
 party_loyalty = {
@@ -13,8 +13,13 @@ party_loyalty = {
 	loyalty_value = 5
 }
 state_building = {
-	level = 1
+	level = 2
 	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = regular_clothes_factory
 	upgrade = yes
 }
 state_building = {

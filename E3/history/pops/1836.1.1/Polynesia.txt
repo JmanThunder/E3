@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = polynesian
 		religion = protestant
-		size = 450
+		size = 225
 	}
 
 	bureaucrats = {
@@ -23,31 +23,31 @@
 	clergymen = {
 		culture = polynesian
 		religion = protestant
-		size = 250
+		size = 200
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = protestant
-		size = 1150
+		size = 525
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = protestant
-		size = 1100
+		size = 587
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = protestant
-		size = 20025
+		size = 9412
 	}
-
+	
 	clergymen = {
 		culture = polynesian
 		religion = catholic
-		size = 25
+		size = 100
 	}
 
 	artisans = {
@@ -56,10 +56,64 @@
 		size = 100
 	}
 
+	soldiers = {
+		culture = polynesian
+		religion = catholic
+		size = 100
+	}
+
 	farmers = {
 		culture = polynesian
 		religion = catholic
-		size = 2000
+		size = 1000
+	}
+	
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 225
+	}
+	
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 425
+	}
+	
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 687
+	}
+	
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 11312
+	}
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+	
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 100
 	}
 }
 #uncolonized in 1836
@@ -106,39 +160,6 @@
 		size = 140
 	}
 }
-#Phoenix Islands
-3324 = {
-
-	aristocrats = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	artisans = {
-		culture = polynesian
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = polynesian
-		religion = animist
-		size = 140
-	}
-}
 #Western Polynesia Region (47000)
 #uncolonized in 1836/ruled by the King of Tonga
 #Tonga (13000/3250 POPS)
@@ -146,31 +167,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 75
+		size = 50
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 140
+		size = 75
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 250
+		size = 150
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 50
+		size = 25
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 3350
+		size = 2950
 	}
 }
 #uncolonized in 1836
@@ -501,22 +522,40 @@
 }
 #Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
 2552 = {
+	aristocrats = {
+		culture = british
+		religion = anglican
+		size = 2
+	}
+
 	clergymen = {
-		culture = polynesian
-		religion = protestant
-		size = 1
+		culture = british
+		religion = anglican
+		size = 2
 	}
 
 	artisans = {
-		culture = polynesian
-		religion = protestant
-		size = 4
+		culture = british
+		religion = anglican
+		size = 2
+	}
+
+	soldiers = {
+		culture = british
+		religion = anglican
+		size = 2
 	}
 
 	farmers = {
+		culture = british
+		religion = anglican
+		size = 10
+	}
+	
+	farmers = {
 		culture = polynesian
 		religion = protestant
-		size = 35
+		size = 10
 	}
 }
 #Easter Island Region (3000)

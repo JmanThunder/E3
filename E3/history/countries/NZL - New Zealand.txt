@@ -52,15 +52,15 @@ upper_house = {
 	liberal = 30
 	conservative = 60
 	reactionary = 5
-	anarcho_liberal = 5
+	radical = 5
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = new_world_nation
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

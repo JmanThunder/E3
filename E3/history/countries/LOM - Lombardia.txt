@@ -7,7 +7,6 @@ nationalvalue = nv_order
 literacy = 0.4
 civilized = yes
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -27,7 +26,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-
 #New Reforms
 conscription = two_year_draft
 debt_law = debtors_prisons
@@ -46,14 +44,14 @@ upper_house = {
 	liberal = 29
 	conservative = 60
 	reactionary = 11
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

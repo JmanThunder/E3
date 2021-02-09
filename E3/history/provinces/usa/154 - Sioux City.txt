@@ -1,10 +1,8 @@
-owner = USA
-controller = USA
+owner = CYN
+controller = CYN
+add_core = CYN
 add_core = USA
-add_core = DAK
 trade_goods = grain
 life_rating = 35
 colonial = 2
-terrain = plains
-
 1861.1.1 = { colonial = 0 }

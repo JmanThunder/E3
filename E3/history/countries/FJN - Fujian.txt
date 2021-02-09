@@ -1,12 +1,13 @@
 capital = 1482
 primary_culture = min
-culture = nanfaren
-religion = mahayana
+culture = han_chinese
+religion = confucian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -49,7 +50,7 @@ upper_house = {
 	liberal = 5
 	conservative = 90
 	reactionary = 5
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -60,23 +61,33 @@ foreign_weapons = yes_foreign_weapons
 # Technologies
 flintlock_rifles = 1
 
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 
-# 1861.1.1 = {
+1861.1.1 = {
 
-# foreign_weapons = yes_foreign_weapons
-# foreign_officers = yes_foreign_officers
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
 
-# # Technologies
-# flintlock_rifles = 1
-# military_staff_system = 1
+# Technologies
+flintlock_rifles = 1
+military_staff_system = 1
 
-# # Inventions
-# ##bottling_process = yes
-# modern_winemaking = yes
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
-# }
+}
 

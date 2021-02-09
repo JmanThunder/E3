@@ -44,7 +44,7 @@ upper_house = {
 	liberal = 13
 	conservative = 69
 	reactionary = 18
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -60,6 +60,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "AWS_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/AWS_oob.txt"
-# }
+1861.1.1 = {
+	oob = "/1861/AWS_oob.txt"
+}

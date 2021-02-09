@@ -2,6 +2,7 @@ capital = 703 #Krakow
 primary_culture = polish
 culture = czech
 culture = slovak
+culture = western_slavic
 religion = catholic
 government = hms_government
 plurality = 0.5
@@ -48,7 +49,7 @@ upper_house = {
 	liberal = 30
 	conservative = 40
 	reactionary = 25
-	anarcho_liberal = 5
+	radical = 5
 	socialist = 0
 	communist = 0
 }

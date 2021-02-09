@@ -1,5 +1,5 @@
 EGY = {
-	value = -80
+	value = 80
 }
 
 DND = {
@@ -26,17 +26,14 @@ army = {
 	name = "Army of the Sultanate of Darfur"
 	location = 1841
 	
-	regiment = {
+regiment = {
 		name= "Sultan's Kights"		
-		type = cavalry
-		home = 1841	
-	}
+	type = cavalry
+		home = 1841	}
 
-	regiment = {
+
+regiment = {
 		name= "Fur Warriors"		
-		type = irregular
-		home = 1841	
-	}
+	type = irregular
+	home = 1842	}
 }
-
-

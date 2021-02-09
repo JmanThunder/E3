@@ -1,6 +1,7 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
+culture = volga_german
 religion = protestant
 government = absolute_monarchy
 plurality = 0.15
@@ -47,7 +48,7 @@ upper_house = {
 	liberal = 55
 	conservative = 25
 	reactionary = 5
-	anarcho_liberal = 5
+	radical = 5
 	socialist = 5
 	communist = 5
 }

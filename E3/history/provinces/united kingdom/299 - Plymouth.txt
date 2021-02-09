@@ -1,7 +1,8 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-trade_goods = iron
+add_core = CRN
+trade_goods = fruit
 life_rating = 35
 naval_base = 2
 terrain = plymouth

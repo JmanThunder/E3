@@ -98,7 +98,7 @@ sound_dues;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
 sound_dues_toll;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
 unrecognized_country;Unrecognized Country;;;;;;;;;;;;;;;;;;;;x,,,,,
 unrecognized_country_desc;As a young rebellious country, no one recognizes our right to self rule.;;;;;;;;;;;;;;;;;;;;x,,,,,
-monthly_payment_made;Monthly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,
+monthly_payment_made;Yearly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,
 monthly_payment_made_desc;We already contributed to our overlord's coffers this month.;;;;;;;;;;;;;;;;;;;;x,,,,,
 using_foreign_ships;Uses Imported Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
 using_foreign_shipyards;Uses Western Shipyards;;;;;;;;;;;;;;;;;;;;x,,,,,
@@ -238,8 +238,9 @@ foreign_claims;Foreign Claims;;;;;;;;;;;;;;;;;;;;;;;x
 foreign_claims_desc;Another nation is claiming this province, a claim that they will lose soon enough.;;;;;;;;;;;;;;;;;;;;;;;x
 IS_IN_DEFAULT_TO;Is in default to this country.;;;;;;;;;;;;;;;;;;;;;;;x
 IS_NOT_IN_DEFAULT_TO;Is not in default to this country.;;;;;;;;;;;;;;;;;;;;;;x
-warship_commissioned;Warship Delivered;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+warship_commissioned;Warship Commissioned;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 warship_commissioned_desc;Constructing, delivering or receiving a new, foreign warship is a complicated matter. Sailors need to be trained, officers instructed and the bureaucratic paperwork needs to be done. Because of that, it will take some time for us to be able to get involved in matters like this again.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+warship_commissioned;Warship Commissioned;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ironclad_commision;Iron Clad Commissions;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 sino_portuguese_treaty_of_peking_signataire;Signatory of the Treaty of Peking;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 local_distribution_channels_und_electricity;Commercial Retailers and Electrical Lighting;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -391,6 +392,10 @@ recently_built_city;Recently Built City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 recently_built_city_desc;The capital of this province was recently built by the government, moving a lot of workers to the region to  build a city with modern infrastructure.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 law_changed_by_force;Law Changed;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 law_changed_by_force_desc;We pressured the upper house to pass an urgent reform.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ils_ne_passeront_pas;Ils ne Passront Pas!;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ils_ne_passeront_pas_desc;Ils ne Passront Pas!;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+democratic_nation;Fully Democratic nation;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+democratic_nation_desc;We have reformed our nation to the exent that we our fully democratic.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 social_reformed_nation;Full Welfare State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 social_reformed_nation_desc;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 wahhabism_in_nejd;Wahhabism;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -553,3 +558,33 @@ ansei_purge;Ansei Purge;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 meddled_in_foreign_affairs;Meddled in Foreign Affairs;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 no_freedom;Attempted Freedom;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 no_freedom_desc;We attempted to free ourselves from foreign rule. We must wait until there is another opportunity, as for now they are watching us closely.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+rich_needs_1;Low living conditions - Upper Class II;;;;;;;;;;;;x
+rich_needs_2;Low living conditions - Upper Class I;;;;;;;;;;;;xx
+rich_needs_3;Good living conditions - Upper Class I;;;;;;;;;;;;x
+rich_needs_4;Good living conditions - Upper Class II;;;;;;;;;;;;x
+rich_needs_5;Good living conditions - Upper Class III;;;;;;;;;;;;x
+rich_needs_6;Good living conditions - Upper Class IV;;;;;;;;;;;;x
+rich_needs_7;Good living conditions - Upper Class V;;;;;;;;;;;;x
+rich_needs_8;Good living conditions - Upper Class VI;;;;;;;;;;;;x
+rich_needs_9;Good living conditions - Upper Class VII;;;;;;;;;;;;x
+rich_needs_10;Good living conditions - Upper Class VIII;;;;;;;;;;;;x
+middle_needs_1;Low living conditions - Middle Class II;;;;;;;;;;;;x
+middle_needs_2;Low living conditions - Middle Class I;;;;;;;;;;;;x
+middle_needs_3;Good living conditions - Middle Class I;;;;;;;;;;;;x
+middle_needs_4;Good living conditions - Middle Class II;;;;;;;;;;;;x
+middle_needs_5;Good living conditions - Middle Class III;;;;;;;;;;;;x
+middle_needs_6;Good living conditions - Middle Class IV;;;;;;;;;;;;x
+middle_needs_7;Good living conditions - Middle Class V;;;;;;;;;;;;x
+middle_needs_8;Good living conditions - Middle Class VI;;;;;;;;;;;;x
+middle_needs_9;Good living conditions - Middle Class VII;;;;;;;;;;;;x
+middle_needs_10;Good living conditions - Middle Class VIII;;;;;;;;;;;;x
+poor_needs_1;Low living conditions - Lower Class I;;;;;;;;;;;;x
+poor_needs_2;Low living conditions - Lower Class II;;;;;;;;;;;;x
+poor_needs_3;Good living conditions - Lower Class I;;;;;;;;;;;;x
+poor_needs_4;Good living conditions - Lower Class II;;;;;;;;;;;;x
+poor_needs_5;Good living conditions - Lower Class III;;;;;;;;;;;;x
+poor_needs_6;Good living conditions - Lower Class IV;;;;;;;;;;;;x
+poor_needs_7;Good living conditions - Lower Class V;;;;;;;;;;;;x
+poor_needs_8;Good living conditions - Lower Class VI;;;;;;;;;;;;x
+poor_needs_9;Good living conditions - Lower Class VII;;;;;;;;;;;;x
+poor_needs_10;Good living conditions - Lower Class VIII;;;;;;;;;;;;x

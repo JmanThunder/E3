@@ -5,91 +5,79 @@
 	aristocrats = {
 		culture = north_german
 		religion = catholic
-		size = 250
+		size = 180.25
 	}
 
 	bureaucrats = {
 		culture = north_german
 		religion = catholic
-		size = 75
+		size = 25.75
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = catholic
-		size = 300
+		size = 154.5
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 2825
+		size = 772.5
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size = 3000
+		size = 2060.0
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 39000
-	}
-	
-	craftsmen = {
-		culture = north_german
-		religion = catholic
-		size = 75
+		size = 15347.0
 	}
 
 	aristocrats = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 75
+		size = 257.5
 	}
 
 	officers = {
-		culture = north_german
+		culture = french
 		religion = catholic
-		size = 75
+		size = 51.5
 	}
 
 	bureaucrats = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 20
+		size = 51.5
 	}
 
 	clergymen = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 10
+		size = 283.25
 	}
 
 	artisans = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 50
+		size = 1802.5
 	}
 
 	soldiers = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 50
+		size = 257.5
 	}
 
 	farmers = {
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size = 420
-	}
-	
-	craftsmen = {
-		culture = wallonian
-		religion = catholic
-		size = 5
+		size = 24076.25
 	}
 
 }

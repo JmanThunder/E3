@@ -48,20 +48,23 @@ upper_house = {
 	liberal = 10
 	conservative = 40
 	reactionary = 50
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 
-# oob = "GON_oob.txt"
+oob = "GON_oob.txt"
 
 
 # Technologies
 
 # Inventions
-##bottling_process = yes
+#bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0

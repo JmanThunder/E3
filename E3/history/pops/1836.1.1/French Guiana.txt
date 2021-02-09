@@ -45,25 +45,25 @@
 	}
 
 	clergymen = {
-		culture = mullato
+		culture = kreol
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = mullato
+		culture = kreol
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = mullato
+		culture = kreol
 		religion = catholic
 		size = 425
 	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = afro_french
 		religion = catholic
 		size = 2950
 	}
@@ -96,6 +96,16 @@
 		culture = amazonian
 		religion = animist
 		size = 230
+	}
+	artisans = {
+		culture = hindi
+		religion = hindu
+		size = 2000
+	}
+	artisans = {
+		culture = urdu
+		religion = sunni
+		size = 2000
 	}
 }
 #Maripasoula (3000/750 POPS)
@@ -131,7 +141,7 @@
 	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = afro_french
 		religion = catholic
 		size = 250
 	}

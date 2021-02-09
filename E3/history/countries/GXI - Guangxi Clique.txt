@@ -1,13 +1,14 @@
 capital = 1502
 primary_culture = zhuang
 culture = yue
-culture = nanfaren
-religion = mahayana
+culture = han_chinese
+religion = confucian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+is_releasable_vassal = no
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -44,7 +45,7 @@ upper_house = {
 	liberal = 10
 	conservative = 0
 	reactionary = 100
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -63,22 +64,32 @@ flintlock_rifles = 1
 consciousness = 0
 nonstate_consciousness = 0
 
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 
-# 1861.1.1 = {
+
+1861.1.1 = {
 	
-	# literacy = 0.07
-	# non_state_culture_literacy = 0.04
+	literacy = 0.07
+	non_state_culture_literacy = 0.04
 
-	# foreign_weapons = yes_foreign_weapons
-	# foreign_officers = yes_foreign_officers
+	foreign_weapons = yes_foreign_weapons
+	foreign_officers = yes_foreign_officers
 
-	# # Technologies
-	# flintlock_rifles = 1
-	# military_staff_system = 1
+	# Technologies
+	flintlock_rifles = 1
+	military_staff_system = 1
 
-	# # Inventions
-# #bottling_process = yes
-# modern_winemaking = yes
+	# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
-# }
+}

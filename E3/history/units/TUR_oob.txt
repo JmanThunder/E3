@@ -6,9 +6,7 @@ PER = {
 	influence_value = 0
 }
 
-QNG = {
-	level = 0
-}
+QNG = { level = 0 }
 
 BTL = {
 	value = 125		#relation
@@ -76,6 +74,12 @@ QAT = {
 	influence_value = 0
 }
 
+SAM = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 = sphere
+	influence_value = 0
+}
+
 #Africa
 EGY = {
 	value = -50		#relation
@@ -116,6 +120,11 @@ WAL = {
 ATJ = {
 	value = 50		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+RGA = {
+	value = 25
+	level = 3
 	influence_value = 0
 }
 
@@ -273,12 +282,6 @@ army = {
 		type = infantry
 		home = 1780
 	}
-	
-	regiment = {
-		name= "15. Tümeni Firkasi"
-		type = infantry
-		home = 813
-	}
 
 	regiment = {
 		name= "1. Timariot"
@@ -422,7 +425,7 @@ army = {
 
 army = {
 	name = "Pashalik of Tripoli Army"
-	location = 1736
+	location = 1731
 	regiment = {
 		name= "1. Askäris"
 		type = irregular
@@ -432,6 +435,11 @@ army = {
 		name= "6. Sipahis"
 		type = cavalry
 		home = 805
+	}
+	regiment = {
+		name= "15. Tümeni Firkasi"
+		type = infantry
+		home = 813
 	}
 }
 

@@ -27,7 +27,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-
 # New Reforms
 conscription = no_draft
 debt_law = serfdom
@@ -46,7 +45,7 @@ upper_house = {
 	liberal = 13
 	conservative = 68
 	reactionary = 19
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }

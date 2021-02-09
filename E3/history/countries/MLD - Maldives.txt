@@ -42,11 +42,9 @@ upper_house = {
 	liberal = 11
 	conservative = 73
 	reactionary = 16
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
-
-oob = "MLD_oob.txt"

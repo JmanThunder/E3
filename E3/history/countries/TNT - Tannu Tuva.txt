@@ -1,7 +1,7 @@
 capital = 1469
 primary_culture = tatar
 culture = mongol
-religion = gelugpa
+religion = tengri
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = gelugpa_country
+set_country_flag = tengri_country
 
 ruling_party = TNT_conservative
 last_election = 1834.1.1
@@ -46,7 +46,7 @@ upper_house = {
 	liberal = 35
 	conservative = 55
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -56,5 +56,3 @@ foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
-
-oob = "TNT_oob.txt"

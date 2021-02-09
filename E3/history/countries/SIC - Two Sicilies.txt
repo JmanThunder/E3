@@ -2,19 +2,19 @@ capital = 754
 primary_culture = south_italian
 religion = catholic
 government = absolute_monarchy
-plurality = 10.0
+plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.05
+literacy = 0.1
 non_state_culture_literacy = 0.05
 civilized = yes
-prestige = 0
+prestige = 10
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
@@ -52,7 +52,7 @@ upper_house = {
 	liberal = 0
 	conservative = 85
 	reactionary = 15
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }

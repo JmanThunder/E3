@@ -1,18 +1,12 @@
-owner = ENG
-controller = ENG
-add_core = BLZ
-add_core = JAM
+owner = UCA
+controller = UCA
 add_core = UCA
 add_core = GUA
-add_core = YUC
-trade_goods = timber
-life_rating = 31
-terrain = jungle
-colonial = 2
-
+add_core = LOS
+trade_goods = iron
+life_rating = 33
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
+	owner = GUA
+	controller = GUA
 	remove_core = UCA
-    remove_core = GUA
 }

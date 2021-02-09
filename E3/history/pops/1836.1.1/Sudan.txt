@@ -1310,7 +1310,7 @@
 	soldiers = {
 		culture = fur
 		religion = sunni
-		size = 2250
+		size = 1250
 	}
 
 	farmers = {

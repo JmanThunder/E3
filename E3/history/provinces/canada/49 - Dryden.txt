@@ -1,8 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = CAN
-add_core = USA
+owner = RPL
+controller = RPL
+add_core = RPL
+add_core = MTC
 trade_goods = cattle
+terrain = new_world_boreal
 life_rating = 25
-terrain = forest
 colonial = 2

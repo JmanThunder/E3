@@ -45,7 +45,7 @@ upper_house = {
 	liberal = 12
 	conservative = 77
 	reactionary = 11
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -53,5 +53,7 @@ upper_house = {
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
-oob = "MNP_oob.txt"

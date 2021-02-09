@@ -1,4 +1,4 @@
-capital = 1790
+capital = 1789
 primary_culture = fulbe
 religion = sunni
 government = theocracy
@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 16
 	conservative = 61
 	reactionary = 23
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -59,8 +59,8 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TOO_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/TOO_oob.txt"
-	# foreign_weapons = yes_foreign_weapons
-	# flintlock_rifles = 1
-# }
+1861.1.1 = {
+	oob = "/1861/TOO_oob.txt"
+	foreign_weapons = yes_foreign_weapons
+	flintlock_rifles = 1
+}

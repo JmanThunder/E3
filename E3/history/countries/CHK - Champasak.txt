@@ -46,7 +46,7 @@ upper_house = {
 	liberal = 12
 	conservative = 78
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -63,3 +63,8 @@ flintlock_rifles = 1
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

@@ -1,7 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BOS
-add_core = SER
-trade_goods = cattle
+owner = AUS
+controller = AUS
+add_core = CRO
+add_core = HUN
+trade_goods = silk
 life_rating = 35

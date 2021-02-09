@@ -4,8 +4,8 @@ religion = sikh
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.45
-non_state_culture_literacy = 0.05
+literacy = 0.02
+non_state_culture_literacy = 0.01
 
 ruling_party = PNJ_conservative
 upper_house = {
@@ -13,7 +13,7 @@ upper_house = {
 	liberal = 15
 	conservative = 75
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -28,12 +28,29 @@ foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
 foreign_artillery = yes_foreign_artillery
 monetary_reform = yes_monetary_reform
+education_reform = yes_education_reform
+
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
 
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
+
+oob = "PAN_oob.txt"
+1861.1.1 = {
+	literacy = 0.12
+	non_state_culture_literacy = 0.05
+	
+	army_schools = yes_army_schools
+	foreign_officers = yes_foreign_officers
+}
+
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -63,13 +80,3 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = sikh_country
-
-oob = "PNJ_oob.txt"
-
-# 1861.1.1 = {
-	# literacy = 0.12
-	# non_state_culture_literacy = 0.05
-	
-	# army_schools = yes_army_schools
-	# foreign_officers = yes_foreign_officers
-# }

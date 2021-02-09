@@ -1,120 +1,84 @@
-#Jamaica Region - 384000
-#Ruled by Britain 1836
-#Jamaica (372000/93000 POPS)
+#Jamaica Region - 443100
+#Jamaica (441300/110325 POPS)
 2217 = {
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 100
-	}
-	
-	aristocrats = { #So the state has 2% aristocrats
-		culture = british
-		religion = protestant
-		size = 1890
+		size = 120
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 85
+		size = 100
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 75
+		size = 90
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 1250
+		size = 2965
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 2190
+		size = 2595
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 625
-	}
-	
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1250
+		size = 745
 	}
 
 	artisans = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 2000
+		size = 2450
 	}
 
 	soldiers = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 1100
-	}
-	
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 10000
+		size = 1200
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 74375
+		size = 100000
 	}
 }
-#Cayman Islands : (1200/300 POPS) #still a British Colony
+#Cayman Islands : (1800/450 POPS)
 2218 = {
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 5
+		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 15
+		size = 25
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 230
-	}
-	
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 5
+		size = 400
 	}
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 15
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
 }

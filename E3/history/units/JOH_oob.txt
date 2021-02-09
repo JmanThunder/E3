@@ -1,5 +1,5 @@
 ENG = {
-	value = -200
+	value = 50
 }
 
 army = {
@@ -10,5 +10,14 @@ army = {
 		type = irregular
 		home = 1385
 	}
+
 }
 
+leader = {
+	name = "Sultan Ali Iskandar"
+	date = 1824.1.1
+	type = land
+	personality = gutsy
+	background = aristocrat
+	prestige = 0.0
+}

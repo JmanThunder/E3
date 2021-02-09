@@ -1,7 +1,7 @@
 capital = 1911
 primary_culture = akan
 culture = gur
-religion = animist
+religion = fetishist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -28,13 +28,14 @@ pensions = no_pensions
 school_reforms = no_schools
 
 #New Reforms
-centralization = unitary
-colonial_policy = no_colonies
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
 
 ruling_party = ASH2_conservative
 upper_house = {
@@ -42,7 +43,7 @@ upper_house = {
 	liberal = 0
 	conservative = 60
 	reactionary = 40
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -58,15 +59,15 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-# oob = "ASH_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/ASH_oob.txt"
-# }
-# 1861.1.1 = {
+oob = "ASH_oob.txt"
+1861.1.1 = {
+	oob = "/1861/ASH_oob.txt"
+}
+1861.1.1 = {
 
-# foreign_training = yes_foreign_training
-# foreign_weapons = yes_foreign_weapons
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
 
-# # Technologies
-# flintlock_rifles = 1
-# }
+# Technologies
+flintlock_rifles = 1
+}

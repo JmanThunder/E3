@@ -10,19 +10,27 @@ leader = {
 	background = school_of_defense
 }
 
+leader = {
+	name = "Charles Edward Hawkins"
+	type = sea
+	date="1836.1.1"
+	personality = audacious
+	background = nationalist
+}
+
 
 army = {
 	name = "Army of Texas"
-	location = 137
+	location = 133
 	regiment = {
 		name= "Travis' Command"
-		type = irregular
-		home = 43
+		type = cuirassier
+		home = 133
 	}
 
 	regiment = {
 		name= "Fannin's Command"
-		type = irregular
+		type = infantry
 		home = 132
 	}
 	
@@ -34,23 +42,28 @@ army = {
 	
 }
 
-army = {
-	name = "Austin's Army"
-
-	leader = {
-	        name = "Stephen F. Austin"
-	        type = land
-	        date="1836.1.1"
-	        personality = persistant
-	        background = diplomat
-	        prestige = 0.2
-}
-
+navy = {
+	name = "Texan Navy"
 	location = 133
-	regiment = {
-		name= "Austin's Command"
-		type = irregular
-		home = 133
+	
+	ship = {
+		name= "Invincible"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Brutus"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Independence"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Liberty"
+		type = clipper_transport
 	}
 
 }

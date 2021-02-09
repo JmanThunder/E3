@@ -51,6 +51,56 @@
 		size = 725
 	}
 }
+3375 = {
+
+	soldiers = {
+		culture = serb
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 7350
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 100
+	}
+
+	serfs = {
+		culture = albanian
+		religion = sunni
+		size = 725
+	}
+}
 #Niksic (52000/13000 POPS) 
 2569 = {
 	
@@ -261,7 +311,7 @@
 	aristocrats = {
 		culture = croat
 		religion = catholic
-		size = 50
+		size = 100
 	}
 	
 	officers = {
@@ -273,7 +323,7 @@
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	artisans = {
@@ -285,7 +335,7 @@
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	farmers = {
@@ -345,7 +395,7 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 100
 	}
 	
 	officers = {
@@ -357,7 +407,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	artisans = {
@@ -379,54 +429,3 @@
 	}
 
 }
-#Cetinje (104000/26000 POPS) 
-3358 = {
-	aristocrats = {
-		culture = serb
-		religion = orthodox
-		size = 100
-	}
-	
-	bureaucrats = {
-		culture = serb
-		religion = orthodox
-		size = 100
-	}
-
-	officers = {
-		culture = serb
-		religion = orthodox
-		size = 25
-	}
-
-	clergymen = {
-		culture = serb
-		religion = orthodox
-		size = 275
-	}
-
-	artisans = {
-		culture = serb
-		religion = orthodox
-		size = 1300
-	}
-
-	soldiers = {
-		culture = serb
-		religion = orthodox
-		size = 3000
-	}
-
-	farmers = {
-		culture = serb
-		religion = orthodox
-		size = 21375
-	}
-	
-	farmers = {
-		culture = gypsy
-		religion = orthodox
-		size = 1000
-	}
-}
-

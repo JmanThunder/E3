@@ -23,31 +23,31 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 50
+		size = 3550
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 4575
+		size = 6075
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
-		size = 1875
+		size = 3875
 	}
 
 	clergymen = {
@@ -65,7 +65,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = druze
-		size = 3750
+		size = 5750
 	}
 
 	clergymen = {
@@ -151,19 +151,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 825
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 3100
 	}
@@ -190,16 +190,6 @@
 		culture = sephardic
 		religion = jewish
 		size = 1175
-	}
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 3125
-	}
-	farmers = {
-		culture = armenian
-		religion = coptic
-		size = 1850
 	}
 }
 #Nablus (44000/11000 POPS)
@@ -235,19 +225,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 850
 	}
@@ -303,19 +293,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 875
 	}
@@ -371,25 +361,87 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syriac
 		religion = orthodox
 		size = 1725
 	}
 }
 #Beersheba (36000/9000 POPS)
 921 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 6425
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 1850
+	}
+
+}
+3357 = {
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni

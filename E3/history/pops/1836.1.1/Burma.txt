@@ -33,25 +33,25 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = asian_minor #Mon
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 150
 	}
@@ -131,25 +131,25 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = asian_minor #Mon
 		religion = theravada
 		size = 25
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 200
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 50
 	}
@@ -187,25 +187,25 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = asian_minor #Mon
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 850
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 150
 	}
@@ -800,25 +800,25 @@
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = asian_minor #Chin
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 500
 	}
@@ -990,7 +990,7 @@
 	}
 
 	slaves = {
-		culture = burmese
+		culture = asian_minor
 		religion = animist
 		size = 10000
 	}
@@ -1037,25 +1037,25 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = asian_minor #Mon
 		religion = theravada
 		size = 200
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 375
 	}
 
 	artisans = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 1375
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = asian_minor
 		religion = theravada
 		size = 250
 	}
@@ -1098,7 +1098,7 @@
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 25
 	}
 }
@@ -1213,7 +1213,7 @@
 1345 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 10
 	}
 
@@ -1284,13 +1284,13 @@
 	}
 
 	clergymen = { 
-		culture = kachin
+		culture = asian_minor #Chin
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 950
 	}

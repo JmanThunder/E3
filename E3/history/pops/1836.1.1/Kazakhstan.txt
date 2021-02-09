@@ -588,7 +588,7 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 2775
+		size = 12775
 	}
 
 	aristocrats = {
@@ -618,7 +618,7 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 21900
+		size = 11900
 	}
 }
 #Aqtau (32000/8000 POPS)
@@ -761,4 +761,31 @@
 		size = 6000
 	}
 
+}
+
+#Ayteke Bi  
+3298 = {
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1025
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 5
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 350
+	}
 }

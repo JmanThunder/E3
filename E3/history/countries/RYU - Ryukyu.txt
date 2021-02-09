@@ -1,7 +1,8 @@
 capital = 1678
 primary_culture = japanese
-culture = nanfaren
-religion = mahayana
+culture = han_chinese
+culture = ainu
+religion = shinto
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -27,7 +28,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-
 # New Reforms
 conscription = no_draft
 debt_law = peonage
@@ -47,7 +47,7 @@ upper_house = {
 	liberal = 18
 	conservative = 21
 	reactionary = 61
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -55,6 +55,8 @@ upper_house = {
 
 foreign_weapons = yes_foreign_weapons
 education_reform = yes_education_reform
+monetary_reform = yes_monetary_reform
+
 # Technologies
 flintlock_rifles = 1
 
@@ -67,17 +69,17 @@ nonstate_consciousness = 0
 modern_winemaking = yes
 
 oob = "RYU_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/RYU_oob.txt"
-# }
-# 1861.1.1 = {
+1861.1.1 = {
+	oob = "/1861/RYU_oob.txt"
+}
+1861.1.1 = {
 
-# foreign_weapons = yes_foreign_weapons
-# army_schools = yes_army_schools
-# land_reform = yes_land_reform
-# education_reform = yes_education_reform
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
+land_reform = yes_land_reform
+education_reform = yes_education_reform
 
-# # Technologies
-# flintlock_rifles = 1
+# Technologies
+flintlock_rifles = 1
 
-# }
+}

@@ -11,7 +11,7 @@ non_state_culture_literacy = 0.01
 
 # Political reforms
 slavery = yes_slavery
-upper_house_composition = party_appointed
+upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 0
 	conservative = 100
 	reactionary = 0
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -60,7 +60,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "ZUL_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/ZUL_oob.txt"
-	# set_country_flag = attack_the_laagers
-# }
+1861.1.1 = {
+	oob = "/1861/ZUL_oob.txt"
+	set_country_flag = attack_the_laagers
+}

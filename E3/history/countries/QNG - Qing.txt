@@ -1,7 +1,7 @@
 capital = 1616
 primary_culture = manchu
-religion = mahayana
-government = absolute_monarchy
+religion = confucian
+government = absolute_empire
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.05
@@ -45,34 +45,37 @@ upper_house = {
 	liberal = 0
 	conservative = 75
 	reactionary = 25
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 decision = QNG_setup
-decision = unciv_balance_qng
 
 # Technologies
+monetary_reform = yes_monetary_reform
 
 # Technologies
 
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "QNG_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/CHI_oob.txt"
-# }
-# 1861.1.1 = {
-# # Inventions
-	# set_global_flag = taiping_has_happened
-	# set_global_flag = hong
-	# set_global_flag = yang
-	# decision = clear_out_the_manchu_elite
-# }
+oob = "CHI_oob.txt"
+1861.1.1 = {
+	oob = "/1861/CHI_oob.txt"
+}
+1861.1.1 = {
+# Inventions
+	set_global_flag = taiping_has_happened
+	set_global_flag = hong
+	set_global_flag = yang
+	decision = clear_out_the_manchu_elite
+}

@@ -1,6 +1,7 @@
 capital = 1680
 primary_culture = maghrebi
 culture = maures
+culture = tuareg
 culture = berber
 religion = sunni
 government = absolute_monarchy
@@ -44,7 +45,7 @@ upper_house = {
 	liberal = 14
 	conservative = 60
 	reactionary = 26
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }

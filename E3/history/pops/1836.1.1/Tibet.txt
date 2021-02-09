@@ -288,7 +288,7 @@
 		size = 29175
 	}
 }
-#Tawang (836000/209000 POPS) #now NEFA in India
+#Tawang (836000/209000 POPS) #now NEFA in India  asian_minor = Chin 
 1593 = {
 	aristocrats = {
 		culture = tibetan
@@ -351,31 +351,31 @@
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 1900
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = kachin
+		culture = asian_minor
 		religion = animist
 		size = 3460
 	}

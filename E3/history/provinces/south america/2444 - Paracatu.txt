@@ -1,6 +1,7 @@
 owner = BRZ
 controller = BRZ
 add_core = BRZ
-trade_goods = cattle
+add_core = MGR
+trade_goods = coal
 terrain = savanna
 life_rating = 25

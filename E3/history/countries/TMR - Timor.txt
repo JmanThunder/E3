@@ -26,7 +26,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-
 #New Reforms
 conscription = one_year_draft
 debt_law = peonage
@@ -45,11 +44,14 @@ upper_house = {
 	liberal = 15
 	conservative = 80
 	reactionary = 5
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 # Inventions
-##bottling_process = yes
+#bottling_process = yes
 modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

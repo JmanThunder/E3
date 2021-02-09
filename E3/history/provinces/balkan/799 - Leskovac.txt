@@ -2,6 +2,7 @@ owner = TUR
 controller = TUR
 add_core = TUR
 add_core = SER
-trade_goods = timber
-terrain = old_world_grassland_hills_large
+add_core = BUL
+
+trade_goods = coal
 life_rating = 35

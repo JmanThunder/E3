@@ -1,11 +1,7 @@
 owner = SEG
-
 controller = SEG
-
 add_core = SEG
-
-trade_goods = fruit
-
+add_core = MAS
+trade_goods = cattle
 terrain = semidesert
-
-life_rating = 10
+life_rating = 20

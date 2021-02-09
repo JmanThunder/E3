@@ -43,16 +43,25 @@ upper_house = {
 	liberal = 13
 	conservative = 58
 	reactionary = 29
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = ibadi_country
 foreign_weapons = yes_foreign_weapons
+monetary_reform = yes_monetary_reform
+foreign_naval_officers = yes_foreign_naval_officers
 
 # Technologies
 flintlock_rifles = 1
+
+# Inventions
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Inventions
 
@@ -61,8 +70,8 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "OMA_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/OMA_oob.txt"
-	# literacy = 0.13
-	# non_state_culture_literacy = 0.06
-# }
+1861.1.1 = {
+	oob = "/1861/OMA_oob.txt"
+	literacy = 0.13
+	non_state_culture_literacy = 0.06
+}

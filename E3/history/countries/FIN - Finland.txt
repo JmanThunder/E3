@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_global_flag = finland_rename_swe
+
 set_country_flag = protestant_country
 
 ruling_party = FIN_conservative
@@ -49,13 +49,13 @@ upper_house = {
 	liberal = 0
 	conservative = 80
 	reactionary = 20
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
 
-decision = FIN_1836_setup_actual
-
+decision = FIN_1836_setup
+decision = findland_rename
 oob = "FIN_oob.txt"
 
 # Technologies
@@ -82,4 +82,3 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 piston_steam_engine = 1
-

@@ -42,6 +42,8 @@ colonial_policy = no_colonies
 consciousness = 0
 nonstate_consciousness = 0
 
+oob = "CIR_oob.txt"
+
 set_country_flag = sunni_country
 
 decision = caucasus_muslims_1836_setup
@@ -54,15 +56,17 @@ foreign_artillery = yes_foreign_artillery
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
 
+# Inventions
+small_arms_production = yes
+ammunition_production = yes
+
 ruling_party = CIR_conservative
 upper_house = {
 	fascist = 0
 	liberal = 20
 	conservative = 70
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
-
-oob = "CIR_oob.txt"

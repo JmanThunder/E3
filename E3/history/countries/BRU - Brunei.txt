@@ -1,5 +1,6 @@
 capital = 1393
 primary_culture = malay
+culture = dayak
 culture = yue
 religion = sunni
 government = absolute_monarchy
@@ -44,7 +45,7 @@ upper_house = {
 	liberal = 10
 	conservative = 75
 	reactionary = 15
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -65,14 +66,14 @@ govt_flag = {
 }
 
 oob = "BRU_oob.txt"
-# 1861.1.1 = {
-	# oob = "/1861/BRU_oob.txt"
-	# literacy = 0.06
-	# non_state_culture_literacy = 0.03
+1861.1.1 = {
+	oob = "/1861/BRU_oob.txt"
+	literacy = 0.06
+	non_state_culture_literacy = 0.03
 
-	# #Military Reforms
-	# foreign_weapons = yes_foreign_weapons
+	#Military Reforms
+	foreign_weapons = yes_foreign_weapons
 	
-	# #Technologies
-	# flintlock_rifles = 1
-# }
+	#Technologies
+	flintlock_rifles = 1
+}

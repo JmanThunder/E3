@@ -3,7 +3,7 @@ primary_culture = central_american
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.1
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.25
 civilized = yes
 
@@ -45,15 +45,15 @@ upper_house = {
 	liberal = 15
 	conservative = 70
 	reactionary = 12
-	anarcho_liberal = 3
+	radical = 3
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = new_world_nation
 
-# 1861.1.1 = {
-# # Technologies
+1861.1.1 = {
+# Technologies
 
-# #Inventions
-# }
+#Inventions
+}

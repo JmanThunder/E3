@@ -55,31 +55,31 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 20
 	}
 	
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 400
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 1000
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 1250
 	}
 
@@ -262,7 +262,7 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 260
 	}
 }
@@ -342,13 +342,13 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 65
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 425
 	}
 
@@ -372,7 +372,7 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 260
 	}
 }
@@ -404,14 +404,14 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 500
 	}
 	
 	farmers = {
 		culture = griqua
 		religion = protestant
-		size = 500
+		size = 1000
 	}
 
 
@@ -430,7 +430,7 @@
 	farmers = {
 		culture = khoisan
 		religion = animist
-		size = 2890
+		size = 8890
 	}
 
 	clergymen = {
@@ -542,25 +542,25 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 20
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 150
 	}
 
@@ -846,32 +846,32 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 250
 	}
 	
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
-		size = 1450
+		religion = anglican
+		size = 450
 	}
 
 	aristocrats = {
@@ -1036,26 +1036,26 @@
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 160
 	}
 	
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 	
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
-		size = 6825
+		religion = anglican
+		size = 825
 	}
 
 	farmers = {
@@ -1139,7 +1139,7 @@
 	farmers = {
 		culture = xhosa
 		religion = animist
-		size = 3700
+		size = 5700
 	}
 
 	aristocrats = {
@@ -1193,7 +1193,7 @@
 	farmers = {
 		culture = khoisan
 		religion = animist
-		size = 3750
+		size = 5750
 	}
 }
 #uncolonized/ruled by the Xhosa 1836
@@ -2177,25 +2177,25 @@
 	
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 10
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 50
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 250
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = anglican
 		size = 20
 	}
 	

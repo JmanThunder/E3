@@ -1,139 +1,139 @@
-#Comoro Islands Region (64000)  
+#Comoro Islands Region (64000)
 #uncolonized in 1836/dominated by sultan of Anjouan
-#Comoro Islands (56000/14000 POPS) 
+#Comoro Islands (56000/14000 POPS)
 2123 = {
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 150
+		size = 154.5
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 50
+		size = 51.5
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 325
+		size = 334.75
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 1100
+		size = 1030.0
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 3425
+		size = 3527.75
 	}
 
 	aristocrats = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 100
+		culture = african_minor
+		religion = animist
+		size = 103.0
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 50
+		culture = african_minor
+		religion = animist
+		size = 51.5
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 300
+		culture = african_minor
+		religion = animist
+		size = 309.0
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 50
+		culture = african_minor
+		religion = animist
+		size = 51.5
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 8219
+		culture = african_minor
+		religion = animist
+		size = 5665.0
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = animist
-		size = 281
+		size = 3090.0
 	}
 }
-#Mayotte (8000/2000 POPS) 
+#Mayotte (8000/2000 POPS)
 2124 = {
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 15
+		size = 15.450000000000001
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 25
+		size = 25.75
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 50
+		size = 51.5
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 10
+		size = 10.3
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = sunni
-		size = 400
+		size = 412.0
 	}
 
 	aristocrats = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 15
+		culture = african_minor
+		religion = animist
+		size = 15.450000000000001
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 25
+		culture = african_minor
+		religion = animist
+		size = 25.75
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 50
+		culture = african_minor
+		religion = animist
+		size = 51.5
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 10
+		culture = african_minor
+		religion = animist
+		size = 10.3
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
-		religion = sunni
-		size = 1340
+		culture = african_minor
+		religion = animist
+		size = 927.0
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = african_minor
 		religion = animist
-		size = 60
+		size = 515.0
 	}
 
 }

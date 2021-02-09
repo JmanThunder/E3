@@ -1,6 +1,5 @@
-#Outer Mongolia Region (1292000) 
-#under the rule of China in 1836  
-#Urga (376000/94000 POPS)   
+#Outer Mongolia Region (1075000)
+#Ugra (312000/78000 POPS)
 1465 = {
 	aristocrats = {
 		culture = mongol
@@ -11,13 +10,13 @@
 	bureaucrats = {
 		culture = mongol
 		religion = gelugpa
-		size = 75
+		size = 500
 	}
 
 	officers = {
 		culture = mongol
 		religion = gelugpa
-		size = 325
+		size = 350
 	}
 
 	clergymen = {
@@ -29,25 +28,25 @@
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 4500
+		size = 7300
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 900
+		size = 3000
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 84350
+		size = 57000
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 125
+		size = 150
 	}
 
 	clergymen = {
@@ -59,28 +58,22 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 400
+		size = 550
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 225
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = gelugpa
-		size = 3300
-	}
-	
-	slaves = {
-		culture = uighur
-		religion = sunni
-		size = 6000
+		religion = mahayana
+		size = 3000
 	}
 }
-#Dalandzadgad (212000/53000 POPS)   
+#Dalandzadgad (165000/41250 POPS)
 1466 = {
 	aristocrats = {
 		culture = mongol
@@ -97,28 +90,22 @@
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 2650
+		size = 3000
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 550
+		size = 1650
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 44200
-	}
-	
-	slaves = {
-		culture = uighur
-		religion = sunni
-		size = 5000
+		size = 35000
 	}
 }
-#Bayan Tumen (176000/44000 POPS)   
+#Bayan Tumen (137000/34250 POPS)
 1467 = {
 	aristocrats = {
 		culture = mongol
@@ -135,19 +122,19 @@
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 2050
+		size = 2500
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 425
+		size = 750
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 37275
+		size = 27500
 	}
 
 	aristocrats = {
@@ -174,13 +161,13 @@
 		size = 25
 	}
 
-	slaves = {
+	farmers = {
 		culture = yakut
 		religion = animist
-		size = 3000
+		size = 2000
 	}
 }
-#Uliastai (140000/35000 POPS)   
+#Uliastay (109000/27250 POPS)
 1468 = {
 	aristocrats = {
 		culture = mongol
@@ -203,23 +190,17 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 350
+		size = 500
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 31900
-	}
-	
-	slaves = {
-		culture = uighur
-		religion = sunni
-		size = 2000
+		size = 24000
 	}
 }
 
-#Sainshand (71100/17775 POPS)   
+#Sainshand (55500/13875 POPS)
 2207 = {
 	aristocrats = {
 		culture = mongol
@@ -248,11 +229,11 @@
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 16200
+		size = 12300
 	}
 }
 
-#Khatgal (152000/38000 POPS)   
+#Khatgal (118000/29500 POPS)
 2608 = {
 	aristocrats = {
 		culture = mongol
@@ -281,10 +262,10 @@
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 35000
+		size = 26500
 	}
 }
-#Bulgan (84000/21000 POPS)   
+#Bulgan (60000/15000 POPS)
 2678 = {
 	aristocrats = {
 		culture = mongol
@@ -313,10 +294,10 @@
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 17125
+		size = 13125
 	}
 }
-#Khovd (120000/30000 POPS)   
+#Khovd (93500/23375 POPS)
 2679 = {
 	aristocrats = {
 		culture = mongol
@@ -339,13 +320,13 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 175
+		size = 150
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 16400
+		size = 12500
 	}
 
 	aristocrats = {
@@ -371,31 +352,19 @@
 		religion = sunni
 		size = 125
 	}
-	
+
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 10975
-	}
-	
-	slaves = {
-		culture = kazak
-		religion = sunni
-		size = 2000
+		size = 8275
 	}
 }
-#Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
+#Uliatai (25000/6250 POPS) #now Tuva Republic of Russia  Tatar = Tuvan
 1469 = {
 	aristocrats = {
 		culture = tatar
 		religion = gelugpa
-		size = 150
-	}
-	
-	aristocrats  = {
-		culture = mongol
-		religion = gelugpa
-		size = 150
+		size = 125
 	}
 
 	clergymen = {
@@ -407,25 +376,18 @@
 	artisans = {
 		culture = tatar
 		religion = gelugpa
-		size = 400
+		size = 450
 	}
 
 	soldiers = {
 		culture = tatar
 		religion = gelugpa
-		size = 75
+		size = 100
 	}
 
 	farmers = {
 		culture = tatar
 		religion = gelugpa
-		size = 7300
+		size = 5500
 	}
-	
-	slaves = {
-		culture = tatar
-		religion = gelugpa
-		size = 1000
-	}
-
 }

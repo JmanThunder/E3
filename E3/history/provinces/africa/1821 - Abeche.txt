@@ -1,11 +1,6 @@
-owner = DAR
-controller = DAR
-
-add_core = DAR
+owner = WAD
+controller = WAD
+add_core = WAD
 trade_goods = grain
-
 terrain = semidesert
-
-life_rating = 5
-
-colonial = 1
+life_rating = 32

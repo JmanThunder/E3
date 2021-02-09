@@ -1,5 +1,5 @@
 capital = 1037
-primary_culture = north_german
+primary_culture = volga_german
 culture = russian
 religion = protestant
 government = absolute_monarchy
@@ -48,7 +48,7 @@ upper_house = {
 	liberal = 25
 	conservative = 60
 	reactionary = 10
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -69,6 +69,6 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 guild_based_production = 1
 mechanical_production = 1
-hot_blast = 1
+mechanized_mining = 1
 basic_chemistry = 1
 

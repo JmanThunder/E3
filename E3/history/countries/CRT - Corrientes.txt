@@ -49,7 +49,7 @@ upper_house = {
 	liberal = 31
 	conservative = 54
 	reactionary = 15
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0	
 }
@@ -77,4 +77,3 @@ mechanical_production = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-

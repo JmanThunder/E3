@@ -43,7 +43,7 @@ upper_house = {
 	liberal = 0
 	conservative = 68
 	reactionary = 32
-	anarcho_liberal = 0
+	radical = 0
 	socialist = 0
 	communist = 0
 }
@@ -57,5 +57,3 @@ flintlock_rifles = 1
 #Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-oob = "KML_oob.txt"
